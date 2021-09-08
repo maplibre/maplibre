@@ -6,7 +6,7 @@
 
 # Governance
 
-Projects under the MapLibre umbrella are run by a meritocratic governance model. The overall governance across the projects starts with a lazy/self-elected board and will be replaced by a board elected by contributors. **Deadline for implementing the electoral process is the Foss4G conference 2022** (the timespan before this deadline is referred to as the “initial phase”).
+Projects under the MapLibre umbrella are run by a [meritocratic governance model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel). The overall governance across the projects starts with a lazy/self-elected board and will be replaced by a board elected by contributors. **Deadline for implementing the electoral process is the Foss4G conference 2022** (the timespan before this deadline is referred to as the “initial phase”).
 
 ## Roles
 | Role | Range | Description | Duties | Privileges | Authority | Change Procedure | Election Procedure |
