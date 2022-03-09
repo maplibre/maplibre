@@ -1,6 +1,5 @@
 # Steering Committee 
 - [Luke Seelenbinder](https://github.com/lseelenbinder)
-- [Marcel Normann](https://github.com/marcelnormann) 
 - [Petr Pridal](https://github.com/klokan)
 - [Yuri Astrakhan](https://github.com/nyurik)
 
