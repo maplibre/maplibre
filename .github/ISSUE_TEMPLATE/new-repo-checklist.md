@@ -21,6 +21,12 @@ title: "Onboarding repository [repo]"
 # Organizational
 - [ ] The repo has at least one admin who is ideally not part of the Governing Board.
 - [ ] The repo has the GitHub sponsors button.
+- [ ] The primary branch is named `main`
+- [ ] There are no personal branches - all work should be done on forks and submitted via PRs.
+- [ ] Community is encouraged to use `squash merge` (disable other merge types if possible)
+- [ ] Disable unused features like wiki
+- [ ] Set up branch rules to require CI pass and an approval before merge<br>For smaller projects it might be OK to ignore this rule.
+- [ ] All Pull Requests are tested before merging using GitHub actions
   
 # Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
