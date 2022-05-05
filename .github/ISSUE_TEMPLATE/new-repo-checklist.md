@@ -5,7 +5,7 @@ title: "Onboarding repository [repo]"
 
 ---
 
-# Procedural
+# Acceptance
 - [ ] Any two board members must agree to accept a new repository. Names: [name1], [name2]
 
 # Licensing
