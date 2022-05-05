@@ -17,6 +17,7 @@ title: "Onboarding repository [repo]"
 - [ ] The repo has `/CONTRIBUTING.md`
 - [ ] The repo has `/README.md`
 - [ ] The repo has `/CODE_OF_CONDUCT.md`
+- [ ] Pull Request and Issue Templates have been created
 
 # Organizational
 - [ ] The repo has at least one admin who is ideally not part of the Governing Board.
