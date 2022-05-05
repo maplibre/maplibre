@@ -24,7 +24,7 @@ title: "Onboarding repository [repo]"
 - [ ] The primary branch is named `main`
 - [ ] There are no personal branches - all work should be done on forks and submitted via PRs.
 - [ ] Community is encouraged to use `squash merge` (disable other merge types if possible)
-- [ ] Repo has a proper github description and an optional web site (gear icon in the upper right corner of the repo page)
+- [ ] Repo has a proper GitHub description and an optional web site (gear icon in the upper right corner of the repo page)
 - [ ] Disable unused features like wiki (settings / features)
 - [ ] Enable "Automatically delete head branches" (settings / pull requests)
 - [ ] Set up branch rules to require CI pass and an approval before merge<br>For smaller projects it might be OK to ignore this rule.
