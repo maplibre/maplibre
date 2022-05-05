@@ -27,7 +27,8 @@ title: "Onboarding repository [repo]"
 - [ ] Repo has a proper GitHub description and an optional web site (gear icon in the upper right corner of the repo page)
 - [ ] Disable unused features like wiki (settings / features)
 - [ ] Enable "Automatically delete head branches" (settings / pull requests)
-- [ ] Set up branch rules to require CI pass and an approval before merge<br>For smaller projects it might be OK to ignore this rule.
+- [ ] Set up branch rules to require CI pass and an approval before merge
+  For smaller projects it might be OK to ignore this rule.
 - [ ] All Pull Requests are tested before merging using GitHub actions
   
 # Community
