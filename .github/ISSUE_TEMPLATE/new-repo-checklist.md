@@ -5,34 +5,56 @@ title: "Onboarding repository [repo]"
 
 ---
 
-# Acceptance
+https://github.com/maplibre/[repo]
+
+
+## Acceptance
 - [ ] Any two board members must agree to accept a new repository. Names: [name1], [name2]
 
-# Licensing
-- [ ] The repo license is BSD-3 or MIT.  Repos may allow dual-licensing under other open source licenses like Apache.
-- [ ] The repo contains Copyright (c) <year> MapLibre contributors.
-- [ ] The repo has a `/LICENSE` file (could also have additional `LICENSE-MIT` / `LICENSE-APACHE` files as needed).
+## Licensing
+- [ ] The repo license is BSD-3 or MIT.
+  *Repos may allow dual-licensing under other open source licenses, e.g. MIT OR Apache.*
+- [ ] The repo contains `Copyright (c) <year> MapLibre contributors` in license file(s) and in the readme.
 
-# Other Files
-- [ ] The repo has `/CONTRIBUTING.md`
-- [ ] The repo has `/README.md`
-- [ ] The repo has `/CODE_OF_CONDUCT.md`
-- [ ] Pull Request and Issue Templates have been created
+## Special files
+- [ ] `/README.md`
+  *Description, link to Slack for discussions, link to the main maplibre.org page, etc*
+- [ ] `/LICENSE`
+   *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
+- [ ] `/CONTRIBUTING.md`
+- [ ] `/CODE_OF_CONDUCT.md`
+  *This file should only link to our [primary code of conduct](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)*
+<!-- copy this code to the new file:
 
-# Organizational
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)
+
+-->
+- [ ] The repo has Pull Request and Issue Templates in `/.github` dir.
+
+## Repo Settings
+#### General page
+- [ ] **[Features]** Disable unused features like wiki.
+- [ ] **[Features]** Enable `Sponsorships`.
+- [ ] **[Features]** Enable `Preserve this repository`.
+- [ ] **[Pull Requests]** Community is encouraged to use `squash merge`. Disable other merge types if possible.
+- [ ] **[Pull Requests]** Enable `Automatically delete head branches`.
+
+#### Access
 - [ ] The repo has at least one admin who is ideally not part of the Governing Board.
-- [ ] The repo has the GitHub sponsors button.
-- [ ] The primary branch is named `main`
-- [ ] There are no personal branches - all work should be done on forks and submitted via PRs.
-- [ ] Community is encouraged to use `squash merge` (disable other merge types if possible)
-- [ ] Repo has a proper GitHub description and an optional web site (gear icon in the upper right corner of the repo page)
-- [ ] Disable unused features like wiki (settings / features)
-- [ ] Enable "Automatically delete head branches" (settings / pull requests)
-- [ ] Set up branch rules to require CI pass and an approval before merge
-  For smaller projects it might be OK to ignore this rule.
-- [ ] All Pull Requests are tested before merging using GitHub actions
-  
-# Community
+
+#### Branches
+- [ ] The primary branch is named `main`.
+- [ ] Set up branch rules to require CI pass and an approval before merge.
+  *For smaller projects it might be OK to ignore this rule.*
+
+## Miscelaneous
+- [ ] The repo must not have any personal branches.
+  *All work should be done on forks and submitted via PRs, including by the admins.*
+- [ ] Repo has a proper GitHub description and an optional web site
+  *Use the gear icon in the upper right corner of the repo page.*
+- [ ] CI automatically runs on all pull requests before merging using GitHub actions
+
+## Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
 - [ ] The new repo has been announced in the `@maplibre` twitter.
