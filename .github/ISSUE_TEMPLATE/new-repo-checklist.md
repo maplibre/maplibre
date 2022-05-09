@@ -8,7 +8,7 @@ title: "Onboarding repository [repo]"
 https://github.com/maplibre/[repo]
 
 ## Motivation
-**...Explain why this repo is good for MapLibre project, its goals, and any other relevant info...**
+**<...Explain why this repo is good for MapLibre project, its goals, and any other relevant info...>**
 
 ## Acceptance
 - [ ] Any two board members must agree to accept a new repository.
