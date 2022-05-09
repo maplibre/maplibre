@@ -22,7 +22,7 @@ https://github.com/maplibre/[repo]
 
 ## Special files
 - [ ] `/README.md`
-  *Description, link to Slack for discussions, link to the main maplibre.org page, etc*
+  *Description, link to the main maplibre.org page, name of the OSM-US Slack channel for discussions and an [invite link](https://osmus-slack.herokuapp.com/), etc*
 - [ ] `/LICENSE`
    *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
 - [ ] `/CONTRIBUTING.md`
