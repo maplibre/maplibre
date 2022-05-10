@@ -2,6 +2,7 @@
 name: New Repository Checklist
 about: Ensure all new MapLibre repositories confirm to our standards
 title: "Onboarding repository [repo]"
+labels: onboarding
 
 ---
 
