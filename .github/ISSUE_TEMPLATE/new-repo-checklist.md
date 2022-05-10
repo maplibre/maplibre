@@ -54,7 +54,7 @@ https://github.com/maplibre/[repo]
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
-- [ ] Grant admin rights to the board members and automation accounts for packages [mbtileserver](https://crates.io/crates/mbtileserver)
+- [ ] Grant admin rights to the board members and automation accounts for packages <list-of-packages>
   - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik klokan lseelenbinder wipfli`
   - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder wipfli`
 
