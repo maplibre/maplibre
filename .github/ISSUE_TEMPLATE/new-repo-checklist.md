@@ -14,7 +14,6 @@ https://github.com/maplibre/[repo]
 - [ ] Any two board members must agree to accept a new repository.
   **Approved by:** <@user1> <@user2>
 
-
 ## Licensing
 - [ ] The repo license is BSD-3 or MIT.
   *Repos may allow dual-licensing under other open source licenses, e.g. MIT OR Apache.*
