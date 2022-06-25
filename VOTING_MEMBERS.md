@@ -13,3 +13,5 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@nyurik](https://github.com/nyurik)
 
 [@wipfli](https://github.com/wipfli)
+
+[@jutaz](https://github.com/jutaz)
