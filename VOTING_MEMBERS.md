@@ -8,6 +8,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@HarelM](https://github.com/harelm)
 
+[@jutaz](https://github.com/jutaz)
+
 [@klokan](https://github.com/klokan)
 
 [@lseelenbinder](https://github.com/lseelenbinder)
