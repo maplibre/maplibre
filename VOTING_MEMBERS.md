@@ -6,7 +6,10 @@ The MapLibre Voting Members elect the Governing Board. Voting Members are people
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
-@klokan
-@lseelenbinder
-@nyurik
-@wipfli
+[@klokan](https://github.com/klokan)
+
+[@lseelenbinder](https://github.com/lseelenbinder)
+
+[@nyurik](https://github.com/nyurik)
+
+[@wipfli](https://github.com/wipfli)
