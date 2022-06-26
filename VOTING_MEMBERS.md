@@ -10,6 +10,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@dayjournal](https://github.com/dayjournal)
 
+[@drwestco](https://github.com/drwestco)
+
 [@HarelM](https://github.com/harelm)
 
 [@jutaz](https://github.com/jutaz)
