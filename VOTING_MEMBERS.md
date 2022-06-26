@@ -21,3 +21,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@sulewicz](https://github.com/sulewicz)
 
 [@wipfli](https://github.com/wipfli)
+
+[@Kanahiro](https://github.com/Kanahiro)
+
+[@dayjournal](https://github.com/dayjournal)
