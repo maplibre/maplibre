@@ -6,9 +6,13 @@ The MapLibre Voting Members elect the Governing Board. Voting Members are people
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+[@dayjournal](https://github.com/dayjournal)
+
 [@HarelM](https://github.com/harelm)
 
 [@jutaz](https://github.com/jutaz)
+
+[@Kanahiro](https://github.com/Kanahiro)
 
 [@klokan](https://github.com/klokan)
 
