@@ -28,6 +28,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik)
 
+[@smellyshovel](https://github.com/smellyshovel)
+
 [@sulewicz](https://github.com/sulewicz)
 
 [@wipfli](https://github.com/wipfli)
