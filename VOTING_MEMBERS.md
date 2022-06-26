@@ -18,6 +18,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@lseelenbinder](https://github.com/lseelenbinder)
 
+[@maxammann](https://github.com/maxammann)
+
 [@mnutt](https://github.com/mnutt)
 
 [@ntadej](https://github.com/ntadej)
@@ -30,4 +32,4 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
-[@maxammann](https://github.com/maxammann)
+
