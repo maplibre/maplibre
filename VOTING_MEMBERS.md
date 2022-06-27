@@ -46,6 +46,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@wipfli](https://github.com/wipfli)
 
+[@xabbu42](https://github.com/xabbu42)
+
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zstadler](https://github.com/zstadler)
