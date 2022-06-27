@@ -26,6 +26,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@maxammann](https://github.com/maxammann)
 
+[@metaceo](https://github.com/metaceo)
+
 [@mnutt](https://github.com/mnutt)
 
 [@mojodna](https://github.com/mojodna)
