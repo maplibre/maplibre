@@ -14,6 +14,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@HarelM](https://github.com/harelm)
 
+[@hoeflehner](https://github.com/hoeflehner)
+
 [@jutaz](https://github.com/jutaz)
 
 [@Kanahiro](https://github.com/Kanahiro)
@@ -28,9 +30,13 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mojodna](https://github.com/mojodna)
 
+[@muesliq](https://github.com/muesliq)
+
 [@ntadej](https://github.com/ntadej)
 
 [@nyurik](https://github.com/nyurik)
+
+[@prozessor13](https://github.com/prozessor13)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
