@@ -50,6 +50,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sulewicz](https://github.com/sulewicz)
 
+[@thaddmt](https://github.com/thaddmt)
+
 [@wipfli](https://github.com/wipfli)
 
 [@xabbu42](https://github.com/xabbu42)
