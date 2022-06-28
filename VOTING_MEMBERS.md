@@ -12,6 +12,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@bchapuis](https://github.com/bchapuis)
 
+[@brendan-ward](https://github.com/brendan-ward)
+
 [@dayjournal](https://github.com/dayjournal)
 
 [@drwestco](https://github.com/drwestco)
