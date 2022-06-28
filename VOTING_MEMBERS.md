@@ -8,6 +8,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ambientlight](https://github.com/ambientlight)
 
+[@atierian](https://github.com/atierian)
+
 [@bchapuis](https://github.com/bchapuis)
 
 [@dayjournal](https://github.com/dayjournal)
