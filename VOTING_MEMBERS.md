@@ -14,6 +14,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@brendan-ward](https://github.com/brendan-ward)
 
+[@chippieTV](https://github.com/chippieTV)
+
 [@dayjournal](https://github.com/dayjournal)
 
 [@drwestco](https://github.com/drwestco)
