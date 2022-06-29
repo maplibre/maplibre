@@ -48,6 +48,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@prozessor13](https://github.com/prozessor13)
 
+[@rbrundritt](https://github.com/rbrundritt)
+
 [@smellyshovel](https://github.com/smellyshovel)
 
 [@sulewicz](https://github.com/sulewicz)
