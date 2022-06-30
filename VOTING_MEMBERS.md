@@ -46,6 +46,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik)
 
+[@OlexandrStepanov](https://github.com/OlexandrStepanov)
+
 [@prozessor13](https://github.com/prozessor13)
 
 [@smellyshovel](https://github.com/smellyshovel)
@@ -61,5 +63,3 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zstadler](https://github.com/zstadler)
-
-[@OlexandrStepanov](https://github.com/OlexandrStepanov)
