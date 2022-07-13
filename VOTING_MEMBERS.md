@@ -50,6 +50,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ntadej](https://github.com/ntadej)
 
+[@nvanfleet](https://github.com/nvanfleet)
+
 [@nyurik](https://github.com/nyurik)
 
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
@@ -71,5 +73,3 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zstadler](https://github.com/zstadler)
-
-[@nvanfleet](https://github.com/nvanfleet)
