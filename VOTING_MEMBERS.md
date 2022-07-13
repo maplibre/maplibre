@@ -20,6 +20,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@drwestco](https://github.com/drwestco)
 
+[@fredj](https://github.com/fredj)
+
 [@HarelM](https://github.com/harelm)
 
 [@hoeflehner](https://github.com/hoeflehner)
