@@ -26,6 +26,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@hoeflehner](https://github.com/hoeflehner)
 
+[@JannikGM](https://github.com/JannikGM)
+
 [@Joxit](https://github.com/Joxit)
 
 [@jutaz](https://github.com/jutaz)
