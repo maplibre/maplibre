@@ -98,7 +98,7 @@ Governing Board members will serve for a one-year term.
 Governing Board members receive no remuneration by the MapLibre Organization for their services on the Board, other than reimbursement for the out-of-pocket expenses incurred when carrying out activities on behalf of the Governing Board. Such expenses must be pre-authorized by at least two other board members.
 
 ### Replacement of Governing Board Members
-In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board  until the next election is called.
+In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
 
 *This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
