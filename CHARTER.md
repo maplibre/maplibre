@@ -8,26 +8,26 @@
 
 *MapLibre:* As a single word, “MapLibre” is a brand name used by the front-end map rendering MapLibre projects (i.e. code libraries).
 
-*MapLibre Community:* People interested in the MapLibre Projects. Anyone can be part of the MapLibre Community and there are no special requirements except to follow community code of conduct. For example, the Community members … :
+*MapLibre Community:* People interested in the MapLibre Projects. Anyone can be part of the MapLibre Community and there are no special requirements except to follow the Community Code of Conduct. For example, the Community members … :
 
  * evangelize the MapLibre Project
- * educate new users of project’s strengths and weaknesses
+ * educate new users on the project’s strengths and weaknesses
  * provide moral support (a ‘thank you’ goes a long way)
  * support the MapLibre Organization financially
  * improve code and fix bugs
  * help with documentation
  * give advice to others
 
-*Technical Steering Committee:* An informal group of people who meet on a monthly basis and discuss technical topics related to software development. Anyone is free to join the Technical Steering Committee.
+*Technical Steering Committee:* An informal group of people who meet on a monthly basis and discuss technical topics related to software development. Everyone is welcome to join the Technical Steering Committee.
 
 *Voting Member:* A person who can elect the Governing Board and vote on changes to the MapLibre Charter.
 
-*Governing Board:* The elected representatives of the MapLibre Community who help shape the Project's overall direction and who decide over the Project's finances.
+*Governing Board:* The elected representatives of the MapLibre Community who help shape the Project's overall direction and who are responsible for the Project's finances.
 
 *Third-party Organization:* A company or organization that uses MapLibre software for commercial or non-commercial purposes.
 
 ## MapLibre Organization Goals
-The MapLibre Organization develops free open-source mapping libraries and tools for others to build applications and services.
+The MapLibre Organization develops free and open-source libraries and tools for mapping that enable others build applications and services.
 
 The primary goal of the MapLibre Organization is to build a friendly and innovative open-source community around the unaffiliated MapLibre Projects.
 
@@ -61,8 +61,8 @@ No more than one person on the Governing Board shall be employed or contracted b
 
 The Board shall have at least the following roles:
 
- * Treasurer: Takes care of financial transactions and accounting.
- * Secretary: Writes and publishes meeting notes, manages Voting membership.
+ * Treasurer: Responsible for financial transactions and accounting.
+ * Secretary: Responsible for taking and publishing meeting notes and management of Voting membership.
 
 The Governing Board meets at least 4 times per year, publishes quarterly financial reports, and shares the content of their meetings with the MapLibre Community to the extent the Board deems appropriate.
 
@@ -86,7 +86,7 @@ Nomination process:
 Voting process:
 
  * Governing Board elections take place every year.
- * Each Voting Member can vote for up to 5 nominees with ranked voting principle.
+ * Each Voting Member can vote for up to 5 nominees using ranked-choice voting.
  * The nominee with the largest number of votes gets appointed, the nominee with the second largest number of votes gets appointed, and so on.
  * In case there are multiple nominees per Third-party organization, only the one with the largest number of votes gets appointed.
  * In case of a tie where more nominees than remaining seats receive an equal number of votes, the vote shall be repeated for the remaining seats.
