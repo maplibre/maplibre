@@ -73,3 +73,5 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zstadler](https://github.com/zstadler)
+
+[@birkskyum](https://github.com/birkskyum)
