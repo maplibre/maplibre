@@ -60,6 +60,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
+[@petrsloup](https://github.com/petrsloup)
+
 [@prozessor13](https://github.com/prozessor13)
 
 [@rbrundritt](https://github.com/rbrundritt)
