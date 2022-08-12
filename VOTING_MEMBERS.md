@@ -72,6 +72,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@thaddmt](https://github.com/thaddmt)
 
+[@tompohys](https://github.com/TomPohys)
+
 [@wipfli](https://github.com/wipfli)
 
 [@xabbu42](https://github.com/xabbu42)
