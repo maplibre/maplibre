@@ -50,6 +50,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mojodna](https://github.com/mojodna)
 
+[@msbarry](https://github.com/msbarry)
+
 [@muesliq](https://github.com/muesliq)
 
 [@ntadej](https://github.com/ntadej)
