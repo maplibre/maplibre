@@ -10,7 +10,7 @@
 
 *MapLibre Community:* People interested in the MapLibre Projects. Anyone can be part of the MapLibre Community and there are no special requirements except to follow the Community Code of Conduct. For example, the Community members … :
 
- * evangelize the MapLibre Project
+ * evangelize about the MapLibre Organization and its Projects
  * educate new users on the project’s strengths and weaknesses
  * provide moral support (a ‘thank you’ goes a long way)
  * support the MapLibre Organization financially
