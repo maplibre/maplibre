@@ -78,6 +78,8 @@ Voting Members can nominate other Community members to receive Voting membership
 Nominations for new Voting Members are open up to two weeks before the election of the Governing Board and the vote on granting Voting Membership to somebody takes place one week before the election of the Governing Board.
 
 ### Governing Board Election
+Governing Board elections are announced at least four weeks in advance.
+
 Nomination process:
 
  * A person can nominate themselves as a candidate for the Governing Board.
