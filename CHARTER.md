@@ -88,7 +88,7 @@ Nomination process:
 Voting process:
 
  * Governing Board elections take place every year.
- * Each Voting Member can vote for up to 5 nominees using ranked-choice voting.
+ * Each Voting Member ranks all nominees according to ranked-choice voting.
  * The nominee with the largest number of votes gets appointed, the nominee with the second largest number of votes gets appointed, and so on.
  * In case there are multiple nominees per Third-party organization, only the one with the largest number of votes gets appointed.
  * In case of a tie where more nominees than remaining seats receive an equal number of votes, the vote shall be repeated for the remaining seats.
