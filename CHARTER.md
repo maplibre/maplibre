@@ -102,5 +102,10 @@ Governing Board members receive no remuneration by the MapLibre Organization for
 ### Replacement of Governing Board Members
 In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
+## Changes to the MapLibre Charter
+
+* Voting Members can propose changes to the MapLibre Charter.
+* Changes to the Charter require a Voting Members vote with a two-thirds majority.
+* The vote on changing the Charter shall be announced at least 4 weeks in advance together with the proposed new Charter.
 
 *This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
