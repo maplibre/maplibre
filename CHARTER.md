@@ -100,5 +100,10 @@ Governing Board members receive no remuneration by the MapLibre Organization for
 ### Replacement of Governing Board Members
 In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
+### Snap Election
+
+A snap election of the Governing Board, i.e. an election which takes place earlier than the usual one year period, can be called if 50 percent of Voting Members who participated in the last election sign a no-confidence motion.
+
+If a no-confidence motion passes, the current Governing Board shall not take any major decisions until the election. Within two weeks, people can register themselves for the election with a self-nomination. Two weeks after the self-nomination deadline, the snap election shall take place, i.e. four weeks after a no-confidence motion passes.
 
 *This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
