@@ -72,6 +72,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@roblabs](https://github.com/roblabs)
 
+[@sjoerdperfors](https://github.com/sjoerdperfors)
+
 [@smellyshovel](https://github.com/smellyshovel)
 
 [@sulewicz](https://github.com/sulewicz)
