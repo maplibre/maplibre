@@ -78,6 +78,8 @@ Voting Members can nominate other Community members to receive Voting membership
 Nominations for new Voting Members are open up to two weeks before the election of the Governing Board and the vote on granting Voting Membership to somebody takes place one week before the election of the Governing Board.
 
 ### Governing Board Election
+Governing Board elections are announced at least four weeks in advance.
+
 Nomination process:
 
  * A person can nominate themselves as a candidate for the Governing Board.
@@ -86,7 +88,7 @@ Nomination process:
 Voting process:
 
  * Governing Board elections take place every year.
- * Each Voting Member can vote for up to 5 nominees using ranked-choice voting.
+ * Each Voting Member ranks all nominees according to ranked-choice voting.
  * The nominee with the largest number of votes gets appointed, the nominee with the second largest number of votes gets appointed, and so on.
  * In case there are multiple nominees per Third-party organization, only the one with the largest number of votes gets appointed.
  * In case of a tie where more nominees than remaining seats receive an equal number of votes, the vote shall be repeated for the remaining seats.
@@ -110,5 +112,11 @@ If a no-confidence motion passes, the current Governing Board shall not take any
 * not make any changes to personnel.
 
 Within two weeks, people can register themselves for the election with a self-nomination. Two weeks after the self-nomination deadline, the snap election shall take place, i.e. four weeks after a no-confidence motion passes.
+
+## Changes to the MapLibre Charter
+
+* Voting Members can propose changes to the MapLibre Charter.
+* Changes to the Charter require a Voting Members vote with a two-thirds majority.
+* The vote on changing the Charter shall be announced at least 4 weeks in advance together with the proposed new Charter.
 
 *This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
