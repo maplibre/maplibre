@@ -106,7 +106,7 @@ In the event of a Governing Board member resigning from the Board during a term,
 
 A snap election of the Governing Board, i.e. an election which takes place earlier than the usual one year period, can be called if 50 percent of Voting Members who participated in the last election sign a no-confidence motion.
 
-If a no-confidence motion passes, the current Governing Board shall not take any major decisions until the election. In that time the Governing Board shall:
+If a no-confidence motion passes, the current Governing Board shall until the next election not take any major decision, such as but not limited to:
 
 * not authorize new expenditures,
 * not make any changes to personnel.
