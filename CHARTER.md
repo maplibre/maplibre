@@ -108,8 +108,8 @@ A snap election of the Governing Board, i.e. an election which takes place earli
 
 If a no-confidence motion passes, the current Governing Board shall until the next election not take any major decision, such as but not limited to:
 
-* not authorize new expenditures,
-* not make any changes to personnel.
+* authorize new expenditures,
+* make any changes to personnel.
 
 Within two weeks, people can register themselves for the election with a self-nomination. Two weeks after the self-nomination deadline, the snap election shall take place, i.e. four weeks after a no-confidence motion passes.
 
