@@ -107,6 +107,17 @@ Board members with a conflict of interest with regards to a give matter abstain 
 ### Replacement of Governing Board Members
 In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
+### Snap Election
+
+A snap election of the Governing Board, i.e. an election which takes place earlier than the usual one year period, can be called if 50 percent of Voting Members who participated in the last election sign a no-confidence motion.
+
+If a no-confidence motion passes, the current Governing Board shall until the next election not take any major decision, such as but not limited to:
+
+* authorize new expenditures,
+* make any changes to personnel.
+
+Within two weeks, people can register themselves for the election with a self-nomination. Two weeks after the self-nomination deadline, the snap election shall take place, i.e. four weeks after a no-confidence motion passes.
+
 ## Changes to the MapLibre Charter
 
 * Voting Members can propose changes to the MapLibre Charter.
