@@ -98,7 +98,12 @@ Governing Board members will serve for a one-year term.
 
 ### Governing Board Member Remuneration
 Governing Board members receive no remuneration by the MapLibre Organization for their services on the Board, other than reimbursement for the out-of-pocket expenses incurred when carrying out activities on behalf of the Governing Board. Such expenses must be pre-authorized by at least two other board members.
+### Conflicts of Interest
+The Governing Board develops a conflict of interest policy which details how Governing Board members can disclose conflicts of interest between their role as MapLibre Governing Board members and other professional and personal activities. 
 
+The policy shall be reviewed on a regular basis and be publicly available. 
+
+Board members with a conflict of interest with regards to a give matter abstain from votes connected to it.
 ### Replacement of Governing Board Members
 In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
