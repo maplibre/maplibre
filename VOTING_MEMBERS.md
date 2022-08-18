@@ -16,75 +16,75 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@birkskyum](https://github.com/birkskyum)
 
-[@brendan-ward](https://github.com/brendan-ward)
+[@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
 [@chippieTV](https://github.com/chippieTV)
 
 [@dayjournal](https://github.com/dayjournal)
 
-[@drwestco](https://github.com/drwestco)
+[@drwestco](https://github.com/drwestco) (Microsoft)
 
-[@fredj](https://github.com/fredj)
+[@fredj](https://github.com/fredj) (Camptocamp)
 
 [@HarelM](https://github.com/harelm)
 
-[@hoeflehner](https://github.com/hoeflehner)
+[@hoeflehner](https://github.com/hoeflehner) (Toursprung)
 
-[@JannikGM](https://github.com/JannikGM)
+[@JannikGM](https://github.com/JannikGM) (Graphmasters GmbH)
 
-[@Joxit](https://github.com/Joxit)
+[@Joxit](https://github.com/Joxit) (Jawg Maps)
 
 [@jutaz](https://github.com/jutaz)
 
 [@Kanahiro](https://github.com/Kanahiro)
 
-[@klokan](https://github.com/klokan)
+[@klokan](https://github.com/klokan) (MapTiler)
 
-[@lseelenbinder](https://github.com/lseelenbinder)
+[@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
 
 [@maxammann](https://github.com/maxammann)
 
 [@metaceo](https://github.com/metaceo)
 
-[@mnutt](https://github.com/mnutt)
+[@mnutt](https://github.com/mnutt) (Movable Ink)
 
-[@mojodna](https://github.com/mojodna)
+[@mojodna](https://github.com/mojodna) (AWS)
 
 [@msbarry](https://github.com/msbarry)
 
-[@muesliq](https://github.com/muesliq)
+[@muesliq](https://github.com/muesliq) (Toursprung)
 
 [@ntadej](https://github.com/ntadej)
 
-[@nreese](https://github.com/nreese)
+[@nreese](https://github.com/nreese) (Elastic)
 
-[@nvanfleet](https://github.com/nvanfleet)
+[@nvanfleet](https://github.com/nvanfleet) (Lyft)
 
-[@nyurik](https://github.com/nyurik)
+[@nyurik](https://github.com/nyurik) (Elastic)
 
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
 [@petrsloup](https://github.com/petrsloup)
 
-[@prozessor13](https://github.com/prozessor13)
+[@prozessor13](https://github.com/prozessor13) (Toursprung)
 
 [@rbrundritt](https://github.com/rbrundritt)
 
 [@roblabs](https://github.com/roblabs)
 
-[@sjoerdperfors](https://github.com/sjoerdperfors)
+[@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
 [@sulewicz](https://github.com/sulewicz)
 
-[@thaddmt](https://github.com/thaddmt)
+[@thaddmt](https://github.com/thaddmt) (AWS)
 
-[@tompohys](https://github.com/TomPohys)
+[@tompohys](https://github.com/TomPohys) (MapTiler)
 
 [@wipfli](https://github.com/wipfli)
 
-[@xabbu42](https://github.com/xabbu42)
+[@xabbu42](https://github.com/xabbu42) (localsearch)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
