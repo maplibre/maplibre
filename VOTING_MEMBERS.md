@@ -66,6 +66,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@petrsloup](https://github.com/petrsloup)
 
+[@petr-pokorny-1](https://github.com/petr-pokorny-1)
+
 [@prozessor13](https://github.com/prozessor13) (Toursprung)
 
 [@rbrundritt](https://github.com/rbrundritt)
