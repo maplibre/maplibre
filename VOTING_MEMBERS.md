@@ -64,6 +64,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
+[@Pessimistress](https://github.com/pessimistress)
+
 [@petrsloup](https://github.com/petrsloup)
 
 [@petr-pokorny-1](https://github.com/petr-pokorny-1)
