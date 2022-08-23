@@ -110,11 +110,11 @@ Governing Board members receive no remuneration by the MapLibre Organization for
 
 ### Conflicts of Interest
 
-The Governing Board develops a conflict of interest policy which details how Governing Board members can disclose conflicts of interest between their role as MapLibre Governing Board members and other professional and personal activities.
+The Governing Board members are aware that conflicts of interest can arise between their role as Governing Board members and their personal and professional activities.
 
-The policy shall be reviewed on a regular basis and be publicly available.
+The Governing Board members inform each other about potential conflicts of interest and recuse from votes if they find themselves subject to a conflict of interest.
 
-Board members with a conflict of interest with regard to a given matter shall abstain from associated votes.
+Recusals shall be published in the Governing Board meeting notes, however, a justification for a recusal does not have to be included.
 
 ### Replacement of Governing Board Members
 
