@@ -4,7 +4,7 @@
 
 *MapLibre Organization:* An umbrella organization to develop, maintain and promote MapLibre software projects.
 
-*MapLibre Projects:* multiple repositories, each being some part of the map visualization stack from the raw data to the map visualization and interaction.
+*MapLibre Projects:* Multiple repositories, each being some part of the map visualization stack from the raw data to the map visualization and interaction.
 
 *MapLibre:* As a single word, “MapLibre” is a brand name used by the front-end map rendering MapLibre projects (i.e. code libraries).
 
