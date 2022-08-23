@@ -44,7 +44,7 @@ The MapLibre Organization has three Governance Bodies which support and represen
 
 ### Technical Steering Committee
 
-The Technical Steering Committee discusses technical topics that affect multiple MapLibre projects, coordinates ongoing work, and decides if proposed changes with a major impact should be accepted or not.
+The Technical Steering Committee discusses technical topics that affect multiple MapLibre Projects, coordinates ongoing work, and decides if proposed changes with a major impact should be accepted or not.
 
 The committee meets on a monthly basis on a video call.
 
