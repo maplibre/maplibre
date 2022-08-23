@@ -2,7 +2,7 @@
 
 ## Definitions
 
-*MapLibre Organization:* An umbrella organization to develop, maintain and promote MapLibre software projects
+*MapLibre Organization:* An umbrella organization to develop, maintain and promote MapLibre software projects.
 
 *MapLibre Projects:* multiple repositories, each being some part of the map visualization stack from the raw data to the map visualization and interaction.
 
