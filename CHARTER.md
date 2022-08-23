@@ -60,7 +60,7 @@ The Board is a group of 5 people who represent the MapLibre Organization.
 
 While the Governing Board’s purpose is not to handle technical topics in general, the Board retains the authority over all decisions the MapLibre Projects make, and may overrule the Technical Steering Committee in case of a dispute.
 
-No more than one person on the Governing Board shall be employed or contracted by a single third-party organization.
+No more than one person on the Governing Board shall be employed or contracted by a single Third-party Organization.
 
 The Board shall have at least the following roles:
 
@@ -75,7 +75,7 @@ Voting Members are people who elect the Governing Board and who vote on changes 
 
 A precondition to becoming a Voting Member is that the person contributed in a non-trivial way or that they donated funds to the MapLibre Organization.
 
-If Voting Members are paid by a Third-party organization for their work on the MapLibre Projects, they shall declare publicly who their employer is. At most 10 percent of the Voting Members shall be employed by a single Third-party organization.
+If Voting Members are paid by a Third-party Organization for their work on the MapLibre Projects, they shall declare publicly who their employer is. At most 10 percent of the Voting Members shall be employed by a single Third-party Organization.
 
 Voting Members shall inform the MapLibre Organization if their work situation with respect to being paid for working on MapLibre Projects changes.
 
@@ -97,7 +97,7 @@ Voting process:
 * Governing Board elections take place every year.
 * Each Voting Member ranks all nominees according to ranked-choice voting.
 * The nominee with the highest ranking gets appointed, the nominee with the second highest ranking gets appointed, and so on.
-* In case there are multiple nominees per Third-party organization, only the one with the largest number of votes gets appointed.
+* In case there are multiple nominees per Third-party Organization, only the one with the largest number of votes gets appointed.
 * In case of a tie where more nominees than remaining seats receive an equal ranking, the vote shall be repeated for the remaining seats.
 
 ### Terms of Governing Board Members
