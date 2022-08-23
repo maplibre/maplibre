@@ -77,6 +77,8 @@ A precondition to becoming a Voting Member is that the person contributed in a n
 
 If Voting Members are paid by a Third-party organization for their work on the MapLibre Projects, they shall declare publicly who their employer is. At most 10 percent of the Voting Members shall be employed by a single Third-party organization.
 
+Voting Members shall inform the MapLibre Organization if their work situation with respect to being paid for working on MapLibre Projects changes.
+
 Voting Members can nominate other Community members to receive Voting membership in acknowledgement of their contributions to the MapLibre Projects. The Voting Members then vote on granting the nominee a Voting membership.
 
 Nominations for new Voting Members are open up to two weeks before the election of the Governing Board and the vote on granting Voting Membership to somebody takes place one week before the election of the Governing Board.
