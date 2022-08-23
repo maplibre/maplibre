@@ -118,7 +118,7 @@ Recusals shall be published in the Governing Board meeting notes, however, a jus
 
 ### Replacement of Governing Board Members
 
-In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
+In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the highest ranking shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
 ### Snap Election
 
