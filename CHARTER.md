@@ -98,7 +98,7 @@ Voting process:
 * Each Voting Member ranks all nominees according to ranked-choice voting.
 * The nominee with the largest number of votes gets appointed, the nominee with the second largest number of votes gets appointed, and so on.
 * In case there are multiple nominees per Third-party organization, only the one with the largest number of votes gets appointed.
-* In case of a tie where more nominees than remaining seats receive an equal number of votes, the vote shall be repeated for the remaining seats.
+* In case of a tie where more nominees than remaining seats receive an equal ranking, the vote shall be repeated for the remaining seats.
 
 ### Terms of Governing Board Members
 
