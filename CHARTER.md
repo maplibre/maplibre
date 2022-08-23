@@ -132,7 +132,7 @@ Within two weeks, a person can nominate themselves as a candidate for the Govern
 ## Changes to the MapLibre Charter
 
 * Voting Members can propose changes to the MapLibre Charter.
-* Changes to the Charter require a Voting Members vote with a two-thirds majority.
+* Changes to the Charter require a Voting Members vote with a two-thirds majority of the people who participate in the vote.
 * The vote on changing the Charter shall be announced at least 4 weeks in advance together with the proposed new Charter.
 
 *This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
