@@ -60,7 +60,7 @@ The Board is a group of 5 people who represent the MapLibre Organization.
 
 While the Governing Board’s purpose is not to handle technical topics in general, the Board retains the authority over all decisions the MapLibre Projects make, and may overrule the Technical Steering Committee in case of a dispute.
 
-No more than one person on the Governing Board shall be employed or contracted by a single Third-party organization.
+No more than one person on the Governing Board shall be employed or contracted by a single third-party organization.
 
 The Board shall have at least the following roles:
 
