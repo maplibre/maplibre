@@ -22,7 +22,7 @@
 
 *Voting Member:* A person who can elect the Governing Board and vote on changes to the MapLibre Charter.
 
-*Governing Board:* The elected representatives of the MapLibre Community who help shape the Project's overall direction and who are responsible for the Project's finances.
+*Governing Board:* The elected representatives of the MapLibre Community who help shape the Organization's overall direction and who are responsible for the Organization's finances.
 
 *Third-party Organization:* A company or organization that uses MapLibre software for commercial or non-commercial purposes.
 
