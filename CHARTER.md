@@ -103,7 +103,7 @@ The Governing Board develops a conflict of interest policy which details how Gov
 
 The policy shall be reviewed on a regular basis and be publicly available. 
 
-Board members with a conflict of interest with regards to a give matter abstain from votes connected to it.
+Board members with a conflict of interest with regard to a given matter shall abstain from associated votes.
 ### Replacement of Governing Board Members
 In the event of a Governing Board member resigning from the Board during a term, the nominees from the last election with the largest number of votes shall be contacted with a proposal to serve in the Government Board until the next election is called.
 
