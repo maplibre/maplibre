@@ -127,7 +127,7 @@ If a no-confidence motion passes, the current Governing Board shall until the ne
 * authorizing new expenditures
 * make any changes to personnel.
 
-Within two weeks, people can register themselves for the election with a self-nomination. Two weeks after the self-nomination deadline, the snap election shall take place, i.e. four weeks after a no-confidence motion passes.
+Within two weeks, a person can nominate themselves as a candidate for the Governing Board. The snap election shall take place two weeks after the self-nomination deadline, i.e., four weeks after a no-confidence motion passes.
 
 ## Changes to the MapLibre Charter
 
