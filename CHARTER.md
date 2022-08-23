@@ -50,7 +50,7 @@ The committee meets on a monthly basis on a video call.
 
 The Technical Steering Committee is open to everyone and there are no special requirements if someone wants to join it.
 
-Some projects may have their own steering committees to discuss issues relevant to just that project (e.g., native, gl-js, …).
+Some Projects may have their own steering committees to discuss issues relevant to just that Project (e.g., native, gl-js, …).
 
 ### Governing Board
 
