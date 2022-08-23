@@ -97,7 +97,7 @@ Voting process:
 * Governing Board elections take place every year.
 * Each Voting Member ranks all nominees according to ranked-choice voting.
 * The nominee with the highest ranking gets appointed, the nominee with the second highest ranking gets appointed, and so on.
-* In case there are multiple nominees per Third-party Organization, only the one with the largest number of votes gets appointed.
+* In case there are multiple nominees per Third-party Organization, only the one with the highest ranking gets appointed.
 * In case of a tie where more nominees than remaining seats receive an equal ranking, the vote shall be repeated for the remaining seats.
 
 ### Terms of Governing Board Members
@@ -137,4 +137,4 @@ Within two weeks, a person can nominate themselves as a candidate for the Govern
 * Changes to the Charter require a Voting Members vote with a two-thirds majority of the people who participate in the vote.
 * The vote on changing the Charter shall be announced at least 4 weeks in advance together with the proposed new Charter.
 
-*This Charter was approved by the MapLibre Voting Members via online vote on YYYY-MM-DD.*
+*This Charter was approved by the MapLibre Voting Members via online vote on 2022-08-25.*
