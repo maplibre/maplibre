@@ -20,7 +20,7 @@ The basic process of triaging issues is
 
 Please note:
 1. TSC reviewers can accept an issue but cannot close an issue before it is being reviewed by the community (the "Community Review" step).
-2. We are much less likely to accept PRs that have no associated accepted issues
+2. Associating PRs to open issues is highly recommended.  
 
 Issues can be at four major states during this process. They are easily identifiable:
 
@@ -47,20 +47,8 @@ Each issue must have a **type** label. Most type labels are grey, some are yello
 |[`needs-more-info`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | not possible to assign a type label due to missing information|
 |[`bug`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | the implementation of a feature is not correct|
 |[`feature-request`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | request for a new feature|
-|[`tech-debt`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | improve the implementation/architecture|
-|[`engineering`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | issues related to our engineering system or our processes|
-|[`polish`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | a feature could be improved, but not necessarily a bug|
+|[`tech-debt`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | improve the implementation/architecture/engineering efficiency|
 |[`*question`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | we should direct questions to StackOverflow|
-
-### Feature Areas Labels
-
-Each issue must have a **feature area** label. 
-
-|Feature Area|Description|
-|---|---|
-|[`rendering`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | Rendering |
-|[`shader`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | Shader |
-|[`styling`](https://github.com/maplibre/maplibre-gl-native/labels/xx) | Styling |
 
 ### Platform Labels
 
