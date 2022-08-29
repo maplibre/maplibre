@@ -20,7 +20,8 @@ The basic process of triaging issues is
 
 Please note:
 1. TSC reviewers can accept an issue but cannot close an issue before it is being reviewed by the community (the "Community Review" step).
-2. Associating PRs to open issues is highly recommended.  
+2. Associating PRs to open issues is highly recommended.
+3. "Accepted" issues will be added to Github milestones and will get prioritized.
 
 Issues can be at four major states during this process. They are easily identifiable:
 
