@@ -13,3 +13,11 @@ Minutes from:
 - [Advisory Council Meetings](https://github.com/maplibre/maplibre/discussions/categories/advisory-council-meetings).
 
 Coordination tasks [tickets](https://github.com/maplibre/maplibre/issues).
+
+## Formatting
+
+Markdown files in this repo are formatted with `markdownlint`. If you have formatting problems you can sometimes fix them with:
+
+```
+npx markdownlint-cli *.md --fix
+```
