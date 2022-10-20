@@ -18,6 +18,6 @@ Coordination tasks [tickets](https://github.com/maplibre/maplibre/issues).
 
 Markdown files in this repo are formatted with `markdownlint`. If you have formatting problems you can sometimes fix them with:
 
-```
+```bash
 npx markdownlint-cli *.md --fix
 ```
