@@ -12,9 +12,8 @@ https://github.com/maplibre/[repo]
 **<...Explain why this repo is good for MapLibre project, its goals, and any other relevant info...>**
 
 ## Acceptance
-- [ ] Any two board members must agree to accept a new repository, once the checklist is complete. _Movement to the `maplibre` organization may happen before or after the checklist is complete, but the two "Approved by" board members are required._
+- [ ] Any two board members must agree to accept a new repository.
   **Approved by:** <@user1> <@user2>
-- [ ] Denote what tier of project it will be (`Core`, `Supported`, `Hosted`): <...tier...> (See discussion: https://github.com/maplibre/maplibre/discussions/132)
 
 ## Licensing
 - [ ] The repo license is BSD-3 or MIT.
