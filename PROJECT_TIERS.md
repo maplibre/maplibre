@@ -20,11 +20,11 @@ A project that the MapLibre Organization does not allocate any funding to. The p
 
 ## Process
 
-New projects start in the Hosted tier. 
+New projects start in the Hosted tier.
 
 If you would like to propose to change the tier of a project, please edit this file in a pull request.
 
-Changing the tier of a project requires approval by the MapLibre Governing Board, as the Board is responsible for all financial decisions. 
+Changing the tier of a project requires approval by the MapLibre Governing Board, as the Board is responsible for all financial decisions.
 
 ## List of Projects
 
