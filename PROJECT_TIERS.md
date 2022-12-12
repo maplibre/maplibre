@@ -8,7 +8,7 @@ The three project tiers Core, Supported, and Hosted describe qualitatively how d
 
 ### Core Project
 
-A project that the MapLibre Organization is committed to in a long-term way. A substantial amount of funding is spent on the project in the form of paid Maintainer time and paid Bounties to ensure its long-term success.
+A project that the MapLibre Organization is committed to long-term. A substantial amount of resources is allocated to the project in the form of paid Maintainer time and paid Bounties to ensure its long-term success.
 
 ### Supported Project
 
