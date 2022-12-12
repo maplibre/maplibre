@@ -12,7 +12,7 @@ A project that the MapLibre Organization is committed to in a long-term way. A s
 
 ### Supported Project
 
-A project that the MapLibre Organization can allocate funding to in the form of paid Maintainer time and paid Bounties. Supported Projects receive a substantially smaller amount of funding than Core Projects and the MapLibre Organization cannot guarantee any level of long-term support.
+A project that the MapLibre Organization can allocate funding to in the form of paid Bounties. Supported Projects receive a substantially smaller amount of funding than Core Projects and the MapLibre Organization cannot guarantee any level of long-term support.
 
 ### Hosted Project
 
@@ -31,7 +31,10 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 ### Core
 
 * [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+* [maplibre-gl-js-docs](https://github.com/maplibre/maplibre-gl-js-docs)
 * [maplibre-gl-native](https://github.com/maplibre/maplibre-gl-native)
+* [maplibre-native-base](https://github.com/maplibre/maplibre-native-base)
+* [maplibre-java](https://github.com/maplibre/maplibre-java)
 
 ### Supported
 
@@ -39,25 +42,4 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 
 ### Hosted
 
-* [maplibre-gl-native-boost](https://github.com/maplibre/maplibre-gl-native-boost)
-* [mbtileserver-rs](https://github.com/maplibre/mbtileserver-rs)
-* [maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android)
-* [demotiles](https://github.com/maplibre/demotiles)
-* [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
-* [maplibre-gl-directions](https://github.com/maplibre/maplibre-gl-directions)
-* [martin-landing-page](https://github.com/maplibre/martin-landing-page)
-* [maplibre-native-base](https://github.com/maplibre/maplibre-native-base)
-* [maplibre.github.io](https://github.com/maplibre/maplibre.github.io)
-* [awesome-maplibre](https://github.com/maplibre/awesome-maplibre)
-* [qt-geoservices-maplibre-gl](https://github.com/maplibre/qt-geoservices-maplibre-gl)
-* [font-maker](https://github.com/maplibre/font-maker)
-* [maplibre-react-native](https://github.com/maplibre/maplibre-react-native)
-* [maplibre-gl-leaflet](https://github.com/maplibre/maplibre-gl-leaflet)
-* [maplibre-navigation-android](https://github.com/maplibre/maplibre-navigation-android)
-* [maplibre-gl-geocoder](https://github.com/maplibre/maplibre-gl-geocoder)
-* [maplibre-gl-js-docs](https://github.com/maplibre/maplibre-gl-js-docs)
-* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl)
-* [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare)
-* [maplibre-java](https://github.com/maplibre/maplibre-java)
-* [martin](https://github.com/maplibre/martin)
-* [maplibre-rs](https://github.com/maplibre/maplibre-rs)
+* All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core or Supported tier.
