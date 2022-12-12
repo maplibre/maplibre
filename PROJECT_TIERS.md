@@ -12,7 +12,7 @@ A project that the MapLibre Organization is committed to in a long-term way. A s
 
 ### Supported Project
 
-A project that the MapLibre Organization can allocate funding to in the form of paid Bounties. Supported Projects receive a substantially smaller amount of funding than Core Projects and the MapLibre Organization cannot guarantee any level of long-term support.
+A project that the MapLibre Organization can allocate resources to in the form of paid Bounties. Supported Projects receive a substantially smaller amount of resources than Core Projects and the MapLibre Organization does not guarantee any level of long-term support.
 
 ### Hosted Project
 
