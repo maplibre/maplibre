@@ -16,7 +16,7 @@ A project that the MapLibre Organization can allocate funding to in the form of 
 
 ### Hosted Project
 
-A project that the MapLibre Organization does not allocate any funding to. The project is hosted in the MapLibre GitHub organization to facilitate collaboration between the people who are interested in the project.
+A project that the MapLibre Organization does not allocate any resources to. The project is hosted in the MapLibre GitHub organization to facilitate collaboration between the people who are interested in the project.
 
 ## Process
 
