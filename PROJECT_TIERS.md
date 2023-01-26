@@ -34,6 +34,9 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-gl-js-docs](https://github.com/maplibre/maplibre-gl-js-docs)
 * [maplibre-gl-native](https://github.com/maplibre/maplibre-gl-native)
 * [maplibre-native-base](https://github.com/maplibre/maplibre-native-base)
+* [maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android)
+  * [Annotations](https://github.com/maplibre/maplibre-plugins-android/tree/main/plugin-annotation): Core
+  * Other plugins: Hosted
 * [maplibre-java](https://github.com/maplibre/maplibre-java)
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
 
