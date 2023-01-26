@@ -35,6 +35,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-gl-native](https://github.com/maplibre/maplibre-gl-native)
 * [maplibre-native-base](https://github.com/maplibre/maplibre-native-base)
 * [maplibre-java](https://github.com/maplibre/maplibre-java)
+* [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
 
 ### Supported
 
