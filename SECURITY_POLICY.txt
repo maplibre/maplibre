@@ -55,11 +55,7 @@ instructions in the installation documentation.
 
 5. Bug Bounties / Vulnerability Rewards
 
-The amount of the reward payed depends on the severity of the found
-vulnerability. We usually do not pay rewards if vulnerabilities can be
-found in mass scans with of-the-shelf software.
-
-Only responsible disclosures are eligible for rewards.
+The MapLibre project does not currently pay rewards.
 
 6. Acknowledgement
 
