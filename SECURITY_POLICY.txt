@@ -38,8 +38,8 @@ it reports one of the following problems:
 
 4. Reporting Vulnerabilities
 
-Report vulnerabilities via e-mail to security@maplibre.org. For
-encryption the PGP key https://example.com/pubkey.asc can be used.
+Report vulnerabilities via e-mail to security@maplibre.org. MapLibre does not 
+offer a GPG key for encryption.
 
 Please make sure that you include the following information:
 - Which service is affected
