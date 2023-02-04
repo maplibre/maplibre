@@ -25,6 +25,12 @@ https://github.com/maplibre/[repo]
   *Description, link to the main maplibre.org page, name of the OSM-US Slack channel for discussions and an [invite link](https://osmus-slack.herokuapp.com/), etc*
 - [ ] `/LICENSE`
    *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
+- [ ] `/SECURITY_POLICY.txt`
+    Add the text:
+    ```
+    For an up-to-date policy refer to
+    https://github.com/maplibre/maplibre/blob/main/SECURITY_POLICY.txt
+    ```
 - [ ] `/CONTRIBUTING.md`
 - [ ] The repo has Pull Request and Issue Templates in `/.github` dir.
 - [ ] The repo has `/.github/FUNDING.yml` file copied from [maplibre-gl-js/funding](https://github.com/maplibre/maplibre-gl-js/blob/main/.github/FUNDING.yml)
