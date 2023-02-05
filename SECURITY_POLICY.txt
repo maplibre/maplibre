@@ -60,10 +60,7 @@ The MapLibre project does not currently pay rewards.
 6. Acknowledgement
 
 We list recognized reports of vulnerablities online if the reporting
-security researcher agrees. The name, contact e-mail address, and type
-of vulnerability can be included in the list. Our public
-acknowledgements can be found at
-https://example.com/security-acknowledgements.html.
+security researcher agrees.
 
 7. About this Policy
 
