@@ -39,6 +39,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
   * Other plugins: Hosted
 * [maplibre-java](https://github.com/maplibre/maplibre-java)
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
+* [maplibre-style-spec](https://github.com/maplibre/maplibre-style-spec)
 
 ### Supported
 
