@@ -43,7 +43,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 
 ### Supported
 
-* Currently none.
+* [maplibre-rs](https://github.com/maplibre/maplibre-rs)
 
 ### Hosted
 
