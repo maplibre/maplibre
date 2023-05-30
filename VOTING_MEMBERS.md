@@ -9,9 +9,9 @@ A single organization can have at most 3 MapLibre Voting Members because we aim 
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
-[@ambientlight](https://github.com/ambientlight)
+[@ambientlight](https://github.com/ambientlight) (Microsoft)
 
-[@atierian](https://github.com/atierian)
+[@atierian](https://github.com/atierian) (AWS)
 
 [@bchapuis](https://github.com/bchapuis)
 
@@ -23,7 +23,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@chippieTV](https://github.com/chippieTV)
 
-[@dayjournal](https://github.com/dayjournal)
+[@dayjournal](https://github.com/dayjournal) (Mierune)
 
 [@drwestco](https://github.com/drwestco) (Microsoft)
 
@@ -39,7 +39,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@jutaz](https://github.com/jutaz)
 
-[@Kanahiro](https://github.com/Kanahiro)
+[@Kanahiro](https://github.com/Kanahiro) (Mierune)
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
@@ -63,19 +63,19 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nvanfleet](https://github.com/nvanfleet) (Lyft)
 
-[@nyurik](https://github.com/nyurik) (Elastic)
+[@nyurik](https://github.com/nyurik) (Rivian)
 
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
-[@Pessimistress](https://github.com/pessimistress)
+[@Pessimistress](https://github.com/pessimistress) (Microsoft)
 
-[@petrsloup](https://github.com/petrsloup)
+[@petrsloup](https://github.com/petrsloup) (MapTiler)
 
-[@petr-pokorny-1](https://github.com/petr-pokorny-1)
+[@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
 
 [@prozessor13](https://github.com/prozessor13) (Toursprung)
 
-[@rbrundritt](https://github.com/rbrundritt)
+[@rbrundritt](https://github.com/rbrundritt) (Microsoft)
 
 [@roblabs](https://github.com/roblabs)
 
