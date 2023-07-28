@@ -60,7 +60,8 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to any of the following people:
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to any of the following people:
 
 - Harel Mazor (harel.mazor AT gmail DOT com)
 - Birk Skyum (birk.skyum AT pm DOT me)
@@ -68,7 +69,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
 ## Enforcement Guidelines
 
