@@ -63,9 +63,9 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to any of the following people:
 
-- Harel Mazor (harel.mazor AT gmail DOT com)
-- Birk Skyum (birk.skyum AT pm DOT me)
-- Oliver Wipfli (oliver.wipfli.f AT gmail DOT com)
+* Harel Mazor (harel.mazor AT gmail DOT com)
+* Birk Skyum (birk.skyum AT pm DOT me)
+* Oliver Wipfli (oliver.wipfli.f AT gmail DOT com)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
