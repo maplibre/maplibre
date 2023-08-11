@@ -47,8 +47,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@maxammann](https://github.com/maxammann)
 
-[@metaceo](https://github.com/metaceo)
-
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
 [@mojodna](https://github.com/mojodna) (AWS)
@@ -86,6 +84,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@sulewicz](https://github.com/sulewicz)
 
 [@thaddmt](https://github.com/thaddmt) (AWS)
+
+[@tjulien](https://github.com/tjulien) (Radar)
 
 [@tompohys](https://github.com/TomPohys) (MapTiler)
 
