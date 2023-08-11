@@ -39,6 +39,8 @@ Peter Höflehner, [@hoeflehner](https://github.com/hoeflehner) (Toursprung)
 
 Kanahiro Iguchi, [@Kanahiro](https://github.com/Kanahiro) (Mierune)
 
+Tim Julien, [@fredj](https://github.com/tjulien) (Radar)
+
 Frédéric Junod, [@fredj](https://github.com/fredj) (Camptocamp)
 
 Yasunori Kirimoto, [@dayjournal](https://github.com/dayjournal) (Mierune)
