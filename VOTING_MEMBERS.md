@@ -9,90 +9,88 @@ A single organization can have at most 3 MapLibre Voting Members because we aim 
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
-[@ambientlight](https://github.com/ambientlight) (Microsoft)
+Max Ammann, [@maxammann](https://github.com/maxammann)
 
-[@atierian](https://github.com/atierian) (AWS)
+Yuri Astrakhan, [@nyurik](https://github.com/nyurik) (Rivian)
 
-[@bchapuis](https://github.com/bchapuis)
+Mike Barry, [@msbarry](https://github.com/msbarry)
 
-[@bdon](https://github.com/bdon)
+Justas Brazauskas, [@jutaz](https://github.com/jutaz)
 
-[@birkskyum](https://github.com/birkskyum)
+Ricky Brundritt, [@rbrundritt](https://github.com/rbrundritt) (Microsoft)
 
-[@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
+Bertil Chapuis, [@bchapuis](https://github.com/bchapuis)
 
-[@chippieTV](https://github.com/chippieTV)
+Xiaoji Chen, [@Pessimistress](https://github.com/pessimistress) (Microsoft)
 
-[@dayjournal](https://github.com/dayjournal) (Mierune)
+Rob Cohen, [@roblabs](https://github.com/roblabs)
 
-[@drwestco](https://github.com/drwestco) (Microsoft)
+Max Demmelbauer, [@prozessor13](https://github.com/prozessor13) (Toursprung)
 
-[@fredj](https://github.com/fredj) (Camptocamp)
+Helge Fahrnberger, [@muesliq](https://github.com/muesliq) (Toursprung)
 
-[@HarelM](https://github.com/harelm)
+Seth Fitzsimmons, [@mojodna](https://github.com/mojodna) (AWS)
 
-[@hoeflehner](https://github.com/hoeflehner) (Toursprung)
+Nathan Grass, [@xabbu42](https://github.com/xabbu42) (localsearch)
 
-[@JannikGM](https://github.com/JannikGM) (Graphmasters GmbH)
+James Hamilton, [@chippieTV](https://github.com/chippieTV)
 
-[@Joxit](https://github.com/Joxit) (Jawg Maps)
+Peter Höflehner, [@hoeflehner](https://github.com/hoeflehner) (Toursprung)
 
-[@jutaz](https://github.com/jutaz)
+Kanahiro Iguchi, [@Kanahiro](https://github.com/Kanahiro) (Mierune)
 
-[@Kanahiro](https://github.com/Kanahiro) (Mierune)
+Frédéric Junod, [@fredj](https://github.com/fredj) (Camptocamp)
 
-[@klokan](https://github.com/klokan) (MapTiler)
+Yasunori Kirimoto, [@dayjournal](https://github.com/dayjournal) (Mierune)
 
-[@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
+Brandon Liu, [@bdon](https://github.com/bdon)
 
-[@maxammann](https://github.com/maxammann)
+Jones Magloire, [@Joxit](https://github.com/Joxit) (Jawg Maps)
 
-[@metaceo](https://github.com/metaceo)
+Matthew Mamonov, [@smellyshovel](https://github.com/smellyshovel)
 
-[@mnutt](https://github.com/mnutt) (Movable Ink)
+Harel Mazor, [@HarelM](https://github.com/harelm)
 
-[@mojodna](https://github.com/mojodna) (AWS)
+Tadej Novak, [@ntadej](https://github.com/ntadej)
 
-[@msbarry](https://github.com/msbarry)
+Michael Nutt, [@mnutt](https://github.com/mnutt) (Movable Ink)
 
-[@muesliq](https://github.com/muesliq) (Toursprung)
+Sjoerd Perfors, [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
-[@ntadej](https://github.com/ntadej)
+Petr Pokorny, [@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
 
-[@nreese](https://github.com/nreese) (Elastic)
+Tomas Pohanka, [@TomPohys](https://github.com/TomPohys) (MapTiler)
 
-[@nvanfleet](https://github.com/nvanfleet) (Lyft)
+Petr Pidal, [@klokan](https://github.com/klokan) (MapTiler)
 
-[@nyurik](https://github.com/nyurik) (Rivian)
+Nathan Reese, [@nreese](https://github.com/nreese) (Elastic)
 
-[@OlexandrStepanov](https://github.com/OlexandrStepanov)
+Ian Saultz, [@atierian](https://github.com/atierian) (AWS)
 
-[@Pessimistress](https://github.com/pessimistress) (Microsoft)
+Luke Seelenbinder, [@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
 
-[@petrsloup](https://github.com/petrsloup) (MapTiler)
+Birk Skyum, [@birkskyum](https://github.com/birkskyum)
 
-[@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
+Petr Sloup, [@petrsloup](https://github.com/petrsloup) (MapTiler)
 
-[@prozessor13](https://github.com/prozessor13) (Toursprung)
+Brian Sperlongano, [@ZeLonewolf](https://github.com/ZeLonewolf)
 
-[@rbrundritt](https://github.com/rbrundritt) (Microsoft)
+Zeev Stadler, [@zstadler](https://github.com/zstadler)
 
-[@roblabs](https://github.com/roblabs)
+Oleksandr Stepanov, [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
-[@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
+Thadd Trinh, [@thaddmt](https://github.com/thaddmt) (AWS)
 
-[@smellyshovel](https://github.com/smellyshovel)
+Szymon Ulewicz, [@sulewicz](https://github.com/sulewicz)
 
-[@sulewicz](https://github.com/sulewicz)
+Nathan Vanfleet, [@nvanfleet](https://github.com/nvanfleet)
 
-[@thaddmt](https://github.com/thaddmt) (AWS)
+Jannik Vogel, [@JannikGM](https://github.com/JannikGM) (Graphmasters GmbH)
 
-[@tompohys](https://github.com/TomPohys) (MapTiler)
+Taras Vozniuk, [@ambientlight](https://github.com/ambientlight) (Microsoft)
 
-[@wipfli](https://github.com/wipfli)
+Brendan Ward, [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
-[@xabbu42](https://github.com/xabbu42) (localsearch)
+Derek Westcott, [@drwestco](https://github.com/drwestco) (Microsoft)
 
-[@ZeLonewolf](https://github.com/ZeLonewolf)
-
-[@zstadler](https://github.com/zstadler)
+Oliver Wipfli, [@wipfli](https://github.com/wipfli)
