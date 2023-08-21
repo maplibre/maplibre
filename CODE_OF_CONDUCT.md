@@ -61,7 +61,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to any Governing Board member. For contact details, see https://maplibre.org/about.
+reported to any Governing Board member. For contact details, see [https://maplibre.org/about](https://maplibre.org/about).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
