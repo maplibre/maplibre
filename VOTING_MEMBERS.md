@@ -9,9 +9,6 @@ A single organization can have at most 3 MapLibre Voting Members because we aim 
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
-
-
-
 [@acalcutt](https://github.com/acalcutt)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
