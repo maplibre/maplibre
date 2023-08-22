@@ -135,7 +135,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@prozessor13](https://github.com/prozessor13) (Toursprung)
 
-[@ptomulik](https://github.com/ptomulik) ()
+[@ptomulik](https://github.com/ptomulik)
 
 [@rbrundritt](https://github.com/rbrundritt) (Microsoft)
 
