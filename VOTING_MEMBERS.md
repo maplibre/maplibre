@@ -81,8 +81,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@kevinschaul](https://github.com/kevinschaul)
 
-[@kircher1](https://github.com/kircher1) (Microsoft)
-
 [@klokan](https://github.com/klokan) (MapTiler)
 
 [@louwers](https://github.com/louwers) (MapLibre)
