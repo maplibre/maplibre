@@ -83,7 +83,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
-[@louwers](https://github.com/louwers) (MapLibre)
+[@louwers](https://github.com/louwers)
 
 [@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
 
