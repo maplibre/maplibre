@@ -2,17 +2,9 @@
 
 <https://www.maplibre.org/>
 
-Documents that span across multiple MapLibre projects - and declare our organizational setup.
+This repository contains various documents that define the MapLibre Organization such as the Charter, our Code of Conduct, the list of Voting Members, and more.
 
-Charter, elections, roles & responsibilities, bounties, recruitment, sponsorship, etc. directly in [repo](https://github.com/maplibre/maplibre) or in [wiki](https://github.com/maplibre/maplibre/wiki).
-
-Minutes from:
-
-- [Technical Steeering Commitee meetings](https://docs.google.com/document/d/1RIHlPLvCzNr6hXXJtMY8uThIAb9nIzeS54KRn79KCHw/edit?usp=sharing)
-- [Governing Board meetings](https://github.com/maplibre/maplibre/discussions/categories/governing-board-meetings)
-- [Advisory Council Meetings](https://github.com/maplibre/maplibre/discussions/categories/advisory-council-meetings).
-
-Coordination tasks [tickets](https://github.com/maplibre/maplibre/issues).
+You also find here the results of past Governing Board elections.
 
 ## Formatting
 
