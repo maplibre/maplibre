@@ -1,9 +1,6 @@
 # MapLibre Voting Members
 
-The MapLibre Voting Members elect the Governing Board.
-Voting Members are people who contributed to MapLibre in a non-trivial way and we intentionally leave the definition of non-trivial to the community to decide.
-New people can become Voting Members if they are nominated by a Voting Member and are subsequently elected by a majority of the Voting Members.
-A single organization can have at most 3 MapLibre Voting Members because we aim for a broad community representation.
+This file lists all MapLibre Voting Members. See the [Charter](https://github.com/maplibre/maplibre/blob/main/CHARTER.md) for more information about the competency of the MapLibre Voting Members.
 
 ## List of Voting Members
 
