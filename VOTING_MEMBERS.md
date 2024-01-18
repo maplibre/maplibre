@@ -48,7 +48,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@HandyMenny](https://github.com/HandyMenny)
 
-[@hoeflehner](https://github.com/hoeflehner) (Toursprung)
+[@hoeflehner](https://github.com/hoeflehner) (Maptoolkit)
 
 [@hy9be](https://github.com/hy9be) (AWS)
 
@@ -104,7 +104,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@msbarry](https://github.com/msbarry)
 
-[@muesliq](https://github.com/muesliq) (Toursprung)
+[@muesliq](https://github.com/muesliq) (Maptoolkit)
 
 [@mwilsnd](https://github.com/mwilsnd) (Meta)
 
