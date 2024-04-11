@@ -2,17 +2,13 @@
 
 The MapLibre Organization maintains the map rendering frameworks MapLibre GL JS and MapLibre GL Native and fosters an ecosystem of plugins and tools around these libraries to produce the best maps in the world.
 
-The three project tiers Core, Supported, and Hosted describe qualitatively how organization resources are distributed among the projects.
+The two project tiers Core and Hosted describe qualitatively how organization resources are distributed among the projects.
 
 ## Tiers
 
 ### Core Project
 
 A project that the MapLibre Organization is committed to long-term. A substantial amount of resources is allocated to the project in the form of paid Maintainer time and paid Bounties to ensure its long-term success.
-
-### Supported Project
-
-A project that the MapLibre Organization can allocate resources to in the form of paid Bounties. Supported Projects receive a substantially smaller amount of resources than Core Projects and the MapLibre Organization does not guarantee any level of long-term support.
 
 ### Hosted Project
 
@@ -41,10 +37,6 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
 * [maplibre-style-spec](https://github.com/maplibre/maplibre-style-spec)
 
-### Supported
-
-* [maplibre-rs](https://github.com/maplibre/maplibre-rs)
-
 ### Hosted
 
-* All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core or Supported tier.
+* All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core tier.
