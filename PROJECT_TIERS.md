@@ -2,7 +2,7 @@
 
 The MapLibre Organization maintains the map rendering frameworks MapLibre GL JS and MapLibre GL Native and fosters an ecosystem of plugins and tools around these libraries to produce the best maps in the world.
 
-The two project tiers Core and Hosted describe qualitatively how organization resources are distributed among the projects.
+The project tiers Core and Hosted describe qualitatively how organization resources are distributed among the projects.
 
 ## Tiers
 
