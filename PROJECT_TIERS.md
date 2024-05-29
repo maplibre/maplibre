@@ -32,6 +32,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android)
   * [Annotations](https://github.com/maplibre/maplibre-plugins-android/tree/main/plugin-annotation): Core
   * Other plugins: Hosted
+* [mvt-cpp](https://github.com/maplibre/mvt-cpp)
 * [maplibre-java](https://github.com/maplibre/maplibre-java)
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
 * [maplibre-style-spec](https://github.com/maplibre/maplibre-style-spec)
