@@ -12,6 +12,6 @@ I would like to nominate @github_handle_here to become a MapLibre Voting Member.
 - [ ] The nominee has shared their full name and contact e-mail with [Hubspot link].
 - [ ] At the voting deadline[^1], more voting members have approved this pull request than disapproved this pull request.
 
-More details on the process of nominating voting members can be found [here].
+More details on the process of nominating voting members can be found [here](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md#process).
 
 [^1]: Thursday, Aug 22nd, 2024 at 17:00 CEST
