@@ -6,7 +6,7 @@ This file lists all MapLibre Voting Members. The [MapLibre Charter](https://mapl
 
 ### I am a Voting Member
 
-If you are a [MapLibre Voting Member](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md), you can vote on granting Voting Membership by approving or disapproving [nominations for voting members](https://github.com/maplibre/maplibre/labels/voting-member-nomination). Approve PRs to show your support for the person or reject PRs to indicate that you disagree with granting Voting Membership.
+If you are a [MapLibre Voting Member](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md), you can vote on granting Voting Membership by approving or disapproving [nominations for Voting Members](https://github.com/maplibre/maplibre/labels/voting-member-nomination). Approve PRs to show your support for the person or reject PRs to indicate that you disagree with granting Voting Membership.
 
 Voting is open until Thursday, Aug 22nd, 2024 at 17:00 CEST.
 
