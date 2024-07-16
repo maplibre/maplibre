@@ -1,6 +1,32 @@
 # MapLibre Voting Members
 
-This file lists all MapLibre Voting Members. See the [Charter](https://github.com/maplibre/maplibre/blob/main/CHARTER.md) for more information about the competency of the MapLibre Voting Members.
+This file lists all MapLibre Voting Members. The [MapLibre Charter](https://maplibre.org/charter/) is the official source of information about the competency of the MapLibre Voting Members.
+
+## Process
+
+### I am a Voting Member
+
+If you are a [MapLibre Voting Member](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md), you can vote on granting Voting Membership by approving or disapproving [nominations for voting members](https://github.com/maplibre/maplibre/labels/voting-member-nomination). Approve PRs to show your support for the person or reject PRs to indicate that you disagree with granting Voting Membership.
+
+Voting is open until Thursday, Aug 22nd, 2024 at 17:00 CEST.
+
+### I am nominated
+
+If you have been nominated in a Pull Request to become a Voting Member, then you have two choices:
+
+- You say YES, I want to be a Voting Member. In this case, please:
+  - Approve this pull request.
+  - We need your email for the online voting system OpaVote which is used for the Governing Board election. Send us your email address via the following form: LINK. 
+- You say NO, I don't want to be a Voting Member. In this case, please
+  - Comment below "Please close this pull request, I don't want to be a Voting Member".
+
+### I would like to nominate someone
+
+If you are a [MapLibre Voting Member](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md#list-of-voting-members), you can nominate someone by opening a pull request that adds their GitHub handle and choosing the [`voting_member_nomination.md`](https://github.com/maplibre/maplibre/blob/main/.github/PULL_REQUEST_TEMPLATE/voting_member_nomination.md) pull request template.
+
+### I would like to be nominated
+
+If you are not a Voting Member but would like to become one, find someone who is on the voting member list (see below) and ask them if they can nominate you.
 
 ## List of Voting Members
 
