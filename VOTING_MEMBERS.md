@@ -8,6 +8,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
+[@hansmuster](https://github.com/hansmuster)
+
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
 
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
