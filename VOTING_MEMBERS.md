@@ -152,6 +152,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@smellyshovel](https://github.com/smellyshovel)
 
+[@stefankarschti](https://github.com/stefankarschti)
+
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
