@@ -154,7 +154,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sarahsporck](https://github.com/sarahsporck) (Tür an Tür - Digitalfabrik gGmbH)
 
-[@sbachnin](https://github.com/sbachinin)
+[@sbachinin](https://github.com/sbachinin)
 
 [@sharkAndshark](https://github.com/sharkAndshark)
 
