@@ -44,6 +44,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@fynngodau](https://github.com/fynngodau)
 
+[@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
+
 [@HarelM](https://github.com/harelm)
 
 [@HandyMenny](https://github.com/HandyMenny)
