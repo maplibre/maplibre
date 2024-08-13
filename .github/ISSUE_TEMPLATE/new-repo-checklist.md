@@ -25,11 +25,11 @@ https://github.com/maplibre/[repo]
   *Description, link to the main maplibre.org page, name of the OSM-US Slack channel for discussions and an [invite link](https://slack.openstreetmap.us), etc*
 - [ ] `/LICENSE`
    *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
-- [ ] `/SECURITY_POLICY.txt`
+- [ ] `/SECURITY.md`
     Add the text:
     ```
     For an up-to-date policy refer to
-    https://github.com/maplibre/maplibre/blob/main/SECURITY_POLICY.txt
+    https://github.com/maplibre/maplibre/blob/main/SECURITY.md
     ```
 - [ ] `/CONTRIBUTING.md`
 - [ ] The repo has Pull Request and Issue Templates in `/.github` dir.
