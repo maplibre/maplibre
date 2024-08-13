@@ -1,4 +1,4 @@
-MapLibre Security and Vulnerability Reporting Policy
+# MapLibre Security and Vulnerability Reporting Policy
 
 1. Services Covered by this Policy
 
