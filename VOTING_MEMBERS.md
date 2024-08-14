@@ -176,7 +176,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@typebrook](https://github.com/typebrook)
 
-[@upsicleclown](https://github.com/upsicleclown) (Rivian)
+[@upsicleclown](https://github.com/upsicleclown)
 
 [@VehpuS](https://github.com/VehpuS) (Nucleai)
 
