@@ -12,6 +12,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
 
+[@alasram](https://github.com/alasram)
+
 [@atierian](https://github.com/atierian) (AWS)
 
 [@bchapuis](https://github.com/bchapuis)
