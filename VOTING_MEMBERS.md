@@ -96,6 +96,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@metaceo](https://github.com/metaceo)
 
+[@michaelkirk](https://github.com/michaelkirk)
+
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
