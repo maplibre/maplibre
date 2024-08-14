@@ -6,6 +6,8 @@ This file lists all MapLibre Voting Members. See the [Charter](https://github.co
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+[@adrian-cojocaru](https://github.com/adrian-cojocaru)
+
 [@acalcutt](https://github.com/acalcutt)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
