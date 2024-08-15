@@ -56,7 +56,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ibesora](https://github.com/ibesora) (Felt)
 
-[@igal1c0de4n](https://github.com/igal1c0de4n) (mapme)
+[@igal1c0de4n](https://github.com/igal1c0de4n) (Mapme)
 
 [@IvanSanchez](https://github.com/IvanSanchez)
 
