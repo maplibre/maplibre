@@ -76,6 +76,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Kanahiro](https://github.com/Kanahiro) (Mierune)
 
+[@keith](https://github.com/keith) (Lyft)
+
 [@kevinschaul](https://github.com/kevinschaul)
 
 [@klokan](https://github.com/klokan) (MapTiler)
