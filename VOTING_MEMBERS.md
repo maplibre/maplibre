@@ -108,6 +108,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mwilsnd](https://github.com/mwilsnd) (Meta)
 
+[@n-elhk](https://github.com/n-elhk)
+
 [@ntadej](https://github.com/ntadej)
 
 [@nreese](https://github.com/nreese) (Elastic)
