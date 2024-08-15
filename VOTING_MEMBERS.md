@@ -114,7 +114,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@neodescis](https://github.com/neodescis)
 
-[@nvanfleet](https://github.com/nvanfleet) (Lyft)
+[@nvanfleet](https://github.com/nvanfleet)
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
