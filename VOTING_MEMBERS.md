@@ -26,6 +26,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
+[@caspg](https://github.com/caspg)
+
 [@chippieTV](https://github.com/chippieTV)
 
 [@ChrisLoer](https://github.com/ChrisLoer) (Felt)
