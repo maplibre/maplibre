@@ -60,6 +60,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@JannikGM](https://github.com/JannikGM) (Graphmasters GmbH)
 
+[@jeresuikkila](https://github.com/jeresuikkila/) (mappedin)
+
 [@jleedev](https://github.com/jleedev)
 
 [@jonahadkins](https://github.com/jonahadkins) (Meta)
