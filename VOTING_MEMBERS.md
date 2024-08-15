@@ -80,6 +80,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
+[@kuhnroyal](https://github.com/kuhnroyal)
+
 [@louwers](https://github.com/louwers)
 
 [@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
