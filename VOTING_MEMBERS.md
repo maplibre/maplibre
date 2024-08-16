@@ -38,7 +38,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@duje](https://github.com/duje)
 
-[@ebrelsford](https://github.com/ebrelsford)
+[@ebrelsford](https://github.com/ebrelsford) (Stamen)
 
 [@Fabi755](https://github.com/Fabi755)
 
