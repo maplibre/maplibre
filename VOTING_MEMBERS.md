@@ -154,7 +154,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@smellyshovel](https://github.com/smellyshovel)
 
-[@springmeyer](https://github.com/springmeyer)
+[@springmeyer](https://github.com/springmeyer) (Dane Springmeyer LLC)
 
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
