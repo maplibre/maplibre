@@ -10,7 +10,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
 
-[@alexcristici](https://github.com/alexcristici)
+[@alexcristici](https://github.com/alexcristici) (AWS)
 
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
 
