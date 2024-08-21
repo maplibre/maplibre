@@ -38,7 +38,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@dayjournal](https://github.com/dayjournal) (Mierune)
 
-[@dennemark](https://github.com/dennemark)
+[@dennemark](https://github.com/dennemark) (Form Follows You)
 
 [@drwestco](https://github.com/drwestco) (Microsoft)
 
