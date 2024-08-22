@@ -42,6 +42,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@duje](https://github.com/duje)
 
+[@ebrelsford](https://github.com/ebrelsford) (Stamen)
+
 [@Fabi755](https://github.com/Fabi755)
 
 [@fredj](https://github.com/fredj) (Camptocamp)
@@ -163,6 +165,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
 [@smellyshovel](https://github.com/smellyshovel)
+
+[@springmeyer](https://github.com/springmeyer) (Dane Springmeyer LLC)
 
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
