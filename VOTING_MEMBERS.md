@@ -10,7 +10,13 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
 
+[@alexcristici](https://github.com/alexcristici) (AWS)
+
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
+
+[@alasram](https://github.com/alasram)
+
+[@archdoog](https://github.com/archdoog) (Rallista)
 
 [@atierian](https://github.com/atierian) (AWS)
 
@@ -25,6 +31,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@boldtrn](https://github.com/boldtrn) (Kurviger)
 
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
+
+[@caspg](https://github.com/caspg)
 
 [@chippieTV](https://github.com/chippieTV)
 
@@ -44,11 +52,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@duje](https://github.com/duje)
 
+[@ebrelsford](https://github.com/ebrelsford) (Stamen)
+
 [@Fabi755](https://github.com/Fabi755)
 
 [@fredj](https://github.com/fredj) (Camptocamp)
 
 [@fynngodau](https://github.com/fynngodau)
+
+[@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
 
 [@HarelM](https://github.com/harelm)
 
@@ -62,9 +74,13 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ibesora](https://github.com/ibesora) (Felt)
 
+[@igal1c0de4n](https://github.com/igal1c0de4n) (Mapme)
+
 [@IvanSanchez](https://github.com/IvanSanchez)
 
 [@JannikGM](https://github.com/JannikGM) (Graphmasters GmbH)
+
+[@jeresuikkila](https://github.com/jeresuikkila/) (Mappedin)
 
 [@jleedev](https://github.com/jleedev)
 
@@ -82,11 +98,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Kanahiro](https://github.com/Kanahiro) (Mierune)
 
+[@keichan34](https://github.com/keichan34)
+
 [@kevinschaul](https://github.com/kevinschaul)
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
 [@kubapelc](https://github.com/kubapelc)
+
+[@kuhnroyal](https://github.com/kuhnroyal)
 
 [@louwers](https://github.com/louwers)
 
@@ -104,6 +124,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@metaceo](https://github.com/metaceo)
 
+[@michaelkirk](https://github.com/michaelkirk)
+
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
@@ -116,13 +138,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mwilsnd](https://github.com/mwilsnd) (Meta)
 
+[@nitrag](https://github.com/nitrag)
+
 [@ntadej](https://github.com/ntadej)
 
 [@nreese](https://github.com/nreese) (Elastic)
 
 [@neodescis](https://github.com/neodescis)
 
-[@nvanfleet](https://github.com/nvanfleet) (Lyft)
+[@nvanfleet](https://github.com/nvanfleet)
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
@@ -139,6 +163,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
 
 [@Pheonor](https://github.com/pheonor)
+
+[@pjsier](https://github.com/pjsier)
 
 [@pramilk](https://github.com/pramilk) (Microsoft)
 
@@ -158,6 +184,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sharkAndshark](https://github.com/sharkAndshark)
 
+[@ShellyDCMS](https://github.com/ShellyDCMS)
+
 [@SiarheiFedartsou](https://github.com/SiarheiFedartsou)
 
 [@sjg-wdw](https://github.com/wdw) (Wet Dog Weather)
@@ -167,6 +195,10 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@smellman](https://github.com/smellman)
 
 [@smellyshovel](https://github.com/smellyshovel)
+
+[@stefankarschti](https://github.com/stefankarschti)
+
+[@springmeyer](https://github.com/springmeyer) (Dane Springmeyer LLC)
 
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
@@ -184,6 +216,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
 
+[@tomeronen](https://github.com/tomeronen)
+
 [@tompohys](https://github.com/TomPohys) (MapTiler)
 
 [@tordans](https://github.com/tordans) (FixMyCity GmbH)
@@ -192,7 +226,9 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@typebrook](https://github.com/typebrook)
 
-[@upsicleclown](https://github.com/upsicleclown) (Rivian)
+[@tyrauber](https://github.com/tyrauber)
+
+[@upsicleclown](https://github.com/upsicleclown)
 
 [@VehpuS](https://github.com/VehpuS) (Nucleai)
 
