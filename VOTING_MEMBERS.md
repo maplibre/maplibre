@@ -136,6 +136,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
 
+[@pjsier](https://github.com/pjsier)
+
 [@pramilk](https://github.com/pramilk) (Microsoft)
 
 [@prozessor13](https://github.com/prozessor13) (Toursprung)
