@@ -184,6 +184,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@typebrook](https://github.com/typebrook)
 
+[@tyrauber](https://github.com/tyrauber)
+
 [@upsicleclown](https://github.com/upsicleclown)
 
 [@VehpuS](https://github.com/VehpuS) (Nucleai)
