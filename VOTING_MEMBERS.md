@@ -158,6 +158,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sharkAndshark](https://github.com/sharkAndshark)
 
+[@ShellyDCMS](https://github.com/ShellyDCMS)
+
 [@SiarheiFedartsou](https://github.com/SiarheiFedartsou)
 
 [@sjg-wdw](https://github.com/wdw) (Wet Dog Weather)
