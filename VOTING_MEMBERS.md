@@ -178,6 +178,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
 
+[@tomeronen](https://github.com/tomeronen)
+
 [@tompohys](https://github.com/TomPohys) (MapTiler)
 
 [@tordans](https://github.com/tordans) (FixMyCity GmbH)
