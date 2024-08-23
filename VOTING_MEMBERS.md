@@ -84,6 +84,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@JonasVautherin](https://github.com/JonasVautherin) (Auterion)
 
+[@josxha](https://github.com/josxha)
+
 [@Joxit](https://github.com/Joxit) (Jawg Maps)
 
 [@JulianBissekkou](https://github.com/JulianBissekkou) (Tapped.dev)
