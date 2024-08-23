@@ -40,9 +40,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ChrisLoer](https://github.com/ChrisLoer) (Felt)
 
+[@chrneumann](https://github.com/chrneumann)
+
+[@coliff](https://github.com/coliff)
+
 [@danielgard](https://github.com/danielgard) (komoot)
 
 [@dayjournal](https://github.com/dayjournal) (Mierune)
+
+[@dennemark](https://github.com/dennemark) (Form Follows You)
 
 [@drwestco](https://github.com/drwestco) (Microsoft)
 
@@ -102,6 +108,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
+[@kubapelc](https://github.com/kubapelc)
+
 [@kuhnroyal](https://github.com/kuhnroyal)
 
 [@louwers](https://github.com/louwers)
@@ -150,6 +158,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
+[@olsen232](https://github.com/olsen232)
+
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
 
 [@ovivoda](https://github.com/ovivoda)
@@ -159,6 +169,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@petrsloup](https://github.com/petrsloup) (MapTiler)
 
 [@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
+
+[@Pheonor](https://github.com/pheonor)
 
 [@pjsier](https://github.com/pjsier)
 
@@ -176,6 +188,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sarahsporck](https://github.com/sarahsporck) (Tür an Tür - Digitalfabrik gGmbH)
 
+[@sbachinin](https://github.com/sbachinin)
+
 [@sharkAndshark](https://github.com/sharkAndshark)
 
 [@ShellyDCMS](https://github.com/ShellyDCMS)
@@ -185,6 +199,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@sjg-wdw](https://github.com/wdw) (Wet Dog Weather)
 
 [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
+
+[@smellman](https://github.com/smellman)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
@@ -225,6 +241,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@upsicleclown](https://github.com/upsicleclown)
 
 [@VehpuS](https://github.com/VehpuS) (Nucleai)
+
+[@vicb](https://github.com/vicb)
 
 [@visitskyworld](https://github.com/visitskyworld)
 
