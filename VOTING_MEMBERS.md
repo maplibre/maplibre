@@ -128,8 +128,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@maxammann](https://github.com/maxammann)
 
-[@metaceo](https://github.com/metaceo)
-
 [@michaelkirk](https://github.com/michaelkirk)
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
