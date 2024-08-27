@@ -152,8 +152,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@neodescis](https://github.com/neodescis)
 
-[@nvanfleet](https://github.com/nvanfleet)
-
 [@nyurik](https://github.com/nyurik) (Rivian)
 
 [@olsen232](https://github.com/olsen232)
