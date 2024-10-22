@@ -44,6 +44,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@coliff](https://github.com/coliff)
 
+[@CommanderStorm](https://github.com/CommanderStorm)
+
 [@danielgard](https://github.com/danielgard) (komoot)
 
 [@dayjournal](https://github.com/dayjournal) (Mierune)
