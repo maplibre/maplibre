@@ -44,7 +44,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@coliff](https://github.com/coliff)
 
-[@CommanderStorm](https://github.com/CommanderStorm)
+[@CommanderStorm](https://github.com/CommanderStorm) (Technical University of Munich)
 
 [@danielgard](https://github.com/danielgard) (komoot)
 
