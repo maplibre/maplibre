@@ -10,6 +10,10 @@ The project tiers Core and Hosted describe qualitatively how organization resour
 
 A project that the MapLibre Organization is committed to long-term. A substantial amount of resources is allocated to the project in the form of paid Maintainer time and paid Bounties to ensure its long-term success.
 
+### Supported Project
+
+A project that the MapLibre Organization can allocate a limited amount of resources to, on an ad-hoc basis, to ensure its long-term success.
+
 ### Hosted Project
 
 A project that the MapLibre Organization does not allocate any resources to. The project is hosted in the MapLibre GitHub organization to facilitate collaboration between the people who are interested in the project.
