@@ -59,7 +59,6 @@ https://github.com/maplibre/[repo]
 - [ ] Setup a branch protection rule to enforce that the repo has no personal branches. *All work (including admins) should be done on forks and submitted via PRs.*
 
 ## Miscelaneous
-
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
