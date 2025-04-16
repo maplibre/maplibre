@@ -65,7 +65,7 @@ https://github.com/maplibre/[repo]
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
 - [ ] Grant admin rights to the board members and automation accounts for packages <list-of-packages>
     - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik klokan lseelenbinder wipfli`
-    - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder wipfli`
+    - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder`
 
 ## Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
