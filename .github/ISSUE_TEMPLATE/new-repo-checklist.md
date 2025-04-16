@@ -70,4 +70,4 @@ https://github.com/maplibre/[repo]
 ## Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
-- [ ] The new repo has been announced in the [@maplibre.org](https://bsky.app/profile/maplibre.org) Bluesky.
+- [ ] The new repo has been announced on social media.
