@@ -70,3 +70,4 @@ https://github.com/maplibre/[repo]
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
 - [ ] The new repo has been announced on social media.
+- [ ] The new repo has been announced in the newsletter.
