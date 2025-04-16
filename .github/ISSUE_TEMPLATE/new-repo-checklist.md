@@ -22,11 +22,13 @@ https://github.com/maplibre/[repo]
 
 ## Special files
 - [ ] `/README.md`
-  *Description, link to the main maplibre.org page, name of the OSM-US Slack channel for discussions and an [invite link](https://slack.openstreetmap.us), etc*
+  - [ ] Description
+  - [ ] link to the main maplibre.org page
+  - [ ] name of the OSM-US Slack channel for discussions and an [invite link](https://slack.openstreetmap.us)
 - [ ] `/LICENSE`
-   *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
+  *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
 - [ ] `/SECURITY.md`
-    Add the text:
+  Add the text:
     ```
     For an up-to-date policy refer to
     https://github.com/maplibre/maplibre/blob/main/SECURITY.md
@@ -36,8 +38,8 @@ https://github.com/maplibre/[repo]
 - [ ] The repo has `/.github/FUNDING.yml` file copied from [maplibre-gl-js/funding](https://github.com/maplibre/maplibre-gl-js/blob/main/.github/FUNDING.yml)
 - [ ] `/CODE_OF_CONDUCT.md`
   *This file should only link to our [primary code of conduct](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md). Use this markup for consistency:*
- `# Contributor Covenant`
- `[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)`
+  `# Contributor Covenant`
+  `[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)`
 
 ## Repo Settings
 #### General page
@@ -62,10 +64,10 @@ https://github.com/maplibre/[repo]
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
 - [ ] Grant admin rights to the board members and automation accounts for packages <list-of-packages>
-  - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik klokan lseelenbinder wipfli`
-  - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder wipfli`
+    - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik klokan lseelenbinder wipfli`
+    - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder wipfli`
 
 ## Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
-- [ ] The new repo has been announced in the `@maplibre` twitter.
+- [ ] The new repo has been announced in the [@maplibre.org](https://bsky.app/profile/maplibre.org) Bluesky.
