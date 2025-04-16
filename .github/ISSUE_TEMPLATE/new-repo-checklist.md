@@ -58,8 +58,7 @@ https://github.com/maplibre/[repo]
   *For smaller projects it might be OK to ignore this rule.*
 
 ## Miscelaneous
-- [ ] The repo must not have any personal branches.
-  *All work should be done on forks and submitted via PRs, including by the admins.*
+- [ ] The repo owner(s) must make sure branches aren't staking up, a good way to solve this is to encourage the usage of forks and PRs instead of private branches
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
