@@ -54,11 +54,10 @@ https://github.com/maplibre/[repo]
 
 #### Branches
 - [ ] The primary branch is named `main`.
-- [ ] Set up branch rules to require CI pass and an approval before merge.
-  *For smaller projects it might be OK to ignore this rule.*
+- [ ] Set up branch ruleset to require CI pass before merge.  Non-trivial projects should also require an approval before merging.
+- [ ] Set up branch ruleset to prevent branch creation - this will prevent accidental pushes directly to the repo, and force all developers to use their own forks.
 
 ## Miscelaneous
-- The maintainers should encourage the usage of forks and PRs instead of private branches.
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
