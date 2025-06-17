@@ -35,7 +35,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-native-base](https://github.com/maplibre/maplibre-native-base)
 * [maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android)
   * [Annotations](https://github.com/maplibre/maplibre-plugins-android/tree/main/plugin-annotation): Core
-  * Other plugins: Hosted
+  * Other plugins: Supported
 * [mvt-cpp](https://github.com/maplibre/mvt-cpp)
 * [maplibre-java](https://github.com/maplibre/maplibre-java)
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
@@ -45,8 +45,15 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 
 * [maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec)
 * [maputnik](https://github.com/maplibre/maputnik)
+* [martin](https://github.com/maplibre/martin)
 * [vtvalidate](https://github.com/maplibre/vtvalidate)
+
+MapLibre Native SDKs
+* [maplibre-react-native](https://github.com/maplibre/maplibre-react-native)
+* [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl)
+* [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt)
+* [maplibre-compose](https://github.com/maplibre/maplibre-compose)
 
 ### Hosted
 
-* All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core tier.
+* All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core or Supported tier.
