@@ -59,8 +59,9 @@ MapLibre Native SDKs
 
 - [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl)
 - [maplibre-compose](https://github.com/maplibre/maplibre-compose)
-- [maplibre-react-native](https://github.com/maplibre/maplibre-react-native)
+- [maplibre-native-rs](https://github.com/maplibre/maplibre-native-rs)
 - [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt)
+- [maplibre-react-native](https://github.com/maplibre/maplibre-react-native)
 
 ### Hosted
 
