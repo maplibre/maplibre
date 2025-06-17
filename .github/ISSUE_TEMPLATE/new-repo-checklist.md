@@ -37,17 +37,19 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
   *Dual-licensed repos may have additional files like `LICENSE-MIT` and `LICENSE-APACHE`*
 - [ ] `/SECURITY.md`
   Add the text:
-    ```
-    For an up-to-date policy refer to
-    https://github.com/maplibre/maplibre/blob/main/SECURITY.md
-    ```
+  ```
+  For an up-to-date policy refer to
+  https://github.com/maplibre/maplibre/blob/main/SECURITY.md
+  ```
 - [ ] `/CONTRIBUTING.md`
 - [ ] The repo has Pull Request and Issue Templates in `/.github` dir.
 - [ ] The repo has `/.github/FUNDING.yml` file copied from [maplibre-gl-js/funding](https://github.com/maplibre/maplibre-gl-js/blob/main/.github/FUNDING.yml)
 - [ ] `/CODE_OF_CONDUCT.md`
   *This file should only link to our [primary code of conduct](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md). Use this markup for consistency:*
-  `# Contributor Covenant`
-  `[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)`
+  ```md
+  # Contributor Covenant
+  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/maplibre/maplibre/blob/main/CODE_OF_CONDUCT.md)
+  ```
 
 ## Repo Settings
 #### General page
