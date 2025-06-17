@@ -41,6 +41,12 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 * [maplibre-gl-native-distribution](https://github.com/maplibre/maplibre-gl-native-distribution)
 * [maplibre-style-spec](https://github.com/maplibre/maplibre-style-spec)
 
+### Supported
+
+* [maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec)
+* [maputnik](https://github.com/maplibre/maputnik)
+* [vtvalidate](https://github.com/maplibre/vtvalidate)
+
 ### Hosted
 
 * All projects in the [MapLibre GitHub organization](https://github.com/maplibre/) which are not in the Core tier.
