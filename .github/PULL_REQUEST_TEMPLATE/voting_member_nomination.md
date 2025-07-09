@@ -14,4 +14,4 @@ I would like to nominate @github_handle_here to become a MapLibre Voting Member.
 
 More details on the process of nominating Voting Members can be found [here](https://github.com/maplibre/maplibre/issues/376).
 
-[^1]: Thursday, Aug 22nd, 2024 at 17:00 CEST
+[^1]: Friday, Aug 15th, 2025 at 17:00 CEST
