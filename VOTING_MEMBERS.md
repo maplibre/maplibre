@@ -104,6 +104,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@kevinschaul](https://github.com/kevinschaul)
 
+[@KiwiKilian](https://github.com/KiwiKilian)
+
 [@klokan](https://github.com/klokan) (MapTiler)
 
 [@kubapelc](https://github.com/kubapelc)
