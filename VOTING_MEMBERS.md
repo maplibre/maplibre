@@ -182,7 +182,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sarahsporck](https://github.com/sarahsporck) (Tür an Tür - Digitalfabrik gGmbH)
 
-[@sargunv](https://github.com/sargunv)
+[@sargunv](https://github.com/sargunv) (Headway)
 
 [@sbachinin](https://github.com/sbachinin)
 
