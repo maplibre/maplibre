@@ -12,6 +12,6 @@ I would like to nominate @github_handle_here to become a MapLibre Voting Member.
 - [ ] The nominee has shared their full name and contact e-mail with [this form](https://share-eu1.hsforms.com/1OcrNFreTRMqPRb0_PlOt3gfn2ab).
 - [ ] At the voting deadline[^1], more [Voting Members](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md) have approved this pull request than disapproved this pull request.
 
-More details on the process of nominating Voting Members can be found [here](https://github.com/maplibre/maplibre/issues/376).
+More details on the process of nominating Voting Members can be found [here](https://github.com/maplibre/maplibre/issues/446).
 
 [^1]: Friday, Aug 15th, 2025 at 17:00 CEST
