@@ -142,6 +142,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@n-elhk](https://github.com/n-elhk)
 
+[@NathanMOlson](https://github.com/NathanMOlson)
+
 [@nitrag](https://github.com/nitrag)
 
 [@ntadej](https://github.com/ntadej)
