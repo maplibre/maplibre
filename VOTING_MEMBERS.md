@@ -208,6 +208,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sulewicz](https://github.com/sulewicz)
 
+[@TatyanaPolunina](https://github.com/TatyanaPolunina) (Lyft)
+
 [@tbo47](https://github.com/tbo47)
 
 [@tdcosta100](https://github.com/tdcosta100)
