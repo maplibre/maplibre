@@ -180,6 +180,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@rotu](https://github.com/rotu)
 
+[@rshk](https://github.com/rshk)
+
 [@sarahsporck](https://github.com/sarahsporck) (Tür an Tür - Digitalfabrik gGmbH)
 
 [@sbachinin](https://github.com/sbachinin)
