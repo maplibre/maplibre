@@ -184,6 +184,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sbachinin](https://github.com/sbachinin)
 
+[@sdf-jkl](https://github.com/sdf-jkl)
+
 [@sharkAndshark](https://github.com/sharkAndshark)
 
 [@ShellyDCMS](https://github.com/ShellyDCMS)
