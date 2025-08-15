@@ -240,6 +240,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
+[@wayofthefuture](https://github.com/wayofthefuture)
+
 [@wipfli](https://github.com/wipfli)
 
 [@xabbu42](https://github.com/xabbu42) (localsearch)
