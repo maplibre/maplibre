@@ -174,6 +174,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ptomulik](https://github.com/ptomulik)
 
+[@qqz003](https://github.com/qqz003) (Microsoft)
+
 [@rbrundritt](https://github.com/rbrundritt) (Microsoft)
 
 [@roblabs](https://github.com/roblabs)
