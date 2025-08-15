@@ -220,6 +220,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
 
+[@todtb](https://github.com/todtb)
+
 [@tomeronen](https://github.com/tomeronen)
 
 [@tompohys](https://github.com/TomPohys) (MapTiler)
