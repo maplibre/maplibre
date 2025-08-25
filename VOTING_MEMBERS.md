@@ -6,6 +6,8 @@ This file lists all MapLibre Voting Members. See the [Charter](https://github.co
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+[@AtlasProgramming](https://github.com/AtlasProgramming)
+
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@acalcutt](https://github.com/acalcutt)
