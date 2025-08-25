@@ -246,6 +246,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
+[@Weixing-Zhang](https://github.com/Weixing-Zhang)
+
 [@wipfli](https://github.com/wipfli)
 
 [@xabbu42](https://github.com/xabbu42) (localsearch)
