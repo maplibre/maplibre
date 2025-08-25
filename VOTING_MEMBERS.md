@@ -262,6 +262,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
+[@westnordost](https://github.com/westnordost)
+
 [@Weixing-Zhang](https://github.com/Weixing-Zhang)
 
 [@wipfli](https://github.com/wipfli)
