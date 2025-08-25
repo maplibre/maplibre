@@ -12,6 +12,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
 
+[@AlexanderThiele](https://github.com/AlexanderThiele) (OCELL)
+
 [@alexcristici](https://github.com/alexcristici) (AWS)
 
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
@@ -44,6 +46,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@coliff](https://github.com/coliff)
 
+[@CommanderStorm](https://github.com/CommanderStorm) (Technical University of Munich)
+
 [@danielgard](https://github.com/danielgard) (komoot)
 
 [@dayjournal](https://github.com/dayjournal) (Mierune)
@@ -62,11 +66,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@fynngodau](https://github.com/fynngodau)
 
+[@grab-liyanjin](https://github.com/grab-liyanjin) (Grab Technology (Beijing) Co., Ltd.)
+
 [@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
 
 [@HarelM](https://github.com/harelm)
 
 [@HandyMenny](https://github.com/HandyMenny)
+
+[@hyperknot](https://github.com/hyperknot)
 
 [@hoeflehner](https://github.com/hoeflehner) (Maptoolkit)
 
@@ -103,6 +111,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@keichan34](https://github.com/keichan34)
 
 [@kevinschaul](https://github.com/kevinschaul)
+
+[@KiwiKilian](https://github.com/KiwiKilian)
 
 [@klokan](https://github.com/klokan) (MapTiler)
 
@@ -142,6 +152,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@n-elhk](https://github.com/n-elhk)
 
+[@NathanMOlson](https://github.com/NathanMOlson)
+
 [@nitrag](https://github.com/nitrag)
 
 [@ntadej](https://github.com/ntadej)
@@ -174,13 +186,19 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ptomulik](https://github.com/ptomulik)
 
+[@ramyaragupathy](https://github.com/ramyaragupathy)
+
 [@rbrundritt](https://github.com/rbrundritt) (Microsoft)
 
 [@roblabs](https://github.com/roblabs)
 
 [@rotu](https://github.com/rotu)
 
+[@rshk](https://github.com/rshk)
+
 [@sarahsporck](https://github.com/sarahsporck) (Tür an Tür - Digitalfabrik gGmbH)
+
+[@sargunv](https://github.com/sargunv)
 
 [@sbachinin](https://github.com/sbachinin)
 
@@ -208,6 +226,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sulewicz](https://github.com/sulewicz)
 
+[@TatyanaPolunina](https://github.com/TatyanaPolunina) (Lyft)
+
 [@tbo47](https://github.com/tbo47)
 
 [@tdcosta100](https://github.com/tdcosta100)
@@ -219,6 +239,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@TimSylvester](https://github.com/TimSylvester) (Wet Dog Weather)
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
+
+[@todtb](https://github.com/todtb)
 
 [@tomeronen](https://github.com/tomeronen)
 
@@ -242,9 +264,13 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@westnordost](https://github.com/westnordost)
 
+[@Weixing-Zhang](https://github.com/Weixing-Zhang)
+
 [@wipfli](https://github.com/wipfli)
 
 [@xabbu42](https://github.com/xabbu42) (localsearch)
+
+[@yousifd](https://github.com/yousifd) (HudHud)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
