@@ -172,6 +172,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ovivoda](https://github.com/ovivoda)
 
+[@paigewilliams](https://github.com/paigewilliams)
+
 [@Pessimistress](https://github.com/pessimistress) (Microsoft)
 
 [@petrsloup](https://github.com/petrsloup) (MapTiler)
