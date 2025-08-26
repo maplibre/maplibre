@@ -202,6 +202,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sargunv](https://github.com/sargunv)
 
+[@Saru2003](https://github.com/Saru2003)
+
 [@sbachinin](https://github.com/sbachinin)
 
 [@sdf-jkl](https://github.com/sdf-jkl)
