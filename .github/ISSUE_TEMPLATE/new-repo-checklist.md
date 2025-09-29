@@ -72,11 +72,10 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
 - [ ] Grant admin rights to the board members and automation accounts for packages <list-of-packages>
-    - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik klokan lseelenbinder birkskyum`
-    - [crates.io](https://crates.io/): package settings / add owner: `nyurik klokan lseelenbinder`
+    - [npmjs.com](https://www.npmjs.com/): package settings / invite:  `maplibreorg nyurik birkskyum`
+    - [crates.io](https://crates.io/): package settings / add owner: `nyurik birkskyum CommanderStorm`
 
 ## Community
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
-- [ ] The new repo has been announced on social media.
-- [ ] The new repo has been announced in the newsletter.
+- [ ] The new repo has been announced in the newsletter (which is shared on social media).
