@@ -40,12 +40,12 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 - [maputnik](https://github.com/maplibre/maputnik)
 - [martin](https://github.com/maplibre/martin)
 
-MapLibre GL JS dependencies
+#### MapLibre GL JS dependencies
 
 - [vtvalidate](https://github.com/maplibre/vtvalidate)
 - [vt-pbf](https://github.com/maplibre/vt-pbf/)
 
-MapLibre Native dependencies and distribution
+#### MapLibre Native dependencies and distribution
 
 - [geojson-cpp](https://github.com/maplibre/geojson-cpp)
 - [geometry.hpp](https://github.com/maplibre/geometry.hpp)
@@ -56,7 +56,7 @@ MapLibre Native dependencies and distribution
   - Other plugins: Hosted
 - [mvt-cpp](https://github.com/maplibre/mvt-cpp)
 
-MapLibre Native SDKs
+#### MapLibre Native SDKs
 
 - [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl)
 - [maplibre-compose](https://github.com/maplibre/maplibre-compose)
