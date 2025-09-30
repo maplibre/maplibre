@@ -43,6 +43,7 @@ Changing the tier of a project requires approval by the MapLibre Governing Board
 MapLibre GL JS dependencies
 
 - [vtvalidate](https://github.com/maplibre/vtvalidate)
+- [vt-pbf](https://github.com/maplibre/vt-pbf/)
 
 MapLibre Native dependencies and distribution
 
@@ -62,6 +63,7 @@ MapLibre Native SDKs
 - [maplibre-native-rs](https://github.com/maplibre/maplibre-native-rs)
 - [maplibre-native-qt](https://github.com/maplibre/maplibre-native-qt)
 - [maplibre-react-native](https://github.com/maplibre/maplibre-react-native)
+- [maplibre-native-slint](https://github.com/maplibre/maplibre-native-slint)
 
 ### Hosted
 
