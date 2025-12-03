@@ -1,7 +1,7 @@
 # AI Generated Contributions Policy
 
 Artificial intelligence systems raise many questions around copyright that have
-yet to be answered. As per the [GitHub TOS](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license), contributors are responsible for ensuring that they have the 
+yet to be answered. As per the [GitHub TOS](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license), contributors are responsible for ensuring that they have the
 right to contribute code under the terms of the repository license. Using AI tools to
 regenerate copyrighted material does not remove the copyright, and contributors
 are responsible for ensuring that such material does not appear in their
