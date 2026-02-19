@@ -142,6 +142,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
 
+[@mizmay](https://github.com/mizmay)
+
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
 [@mojodna](https://github.com/mojodna) (AWS)
