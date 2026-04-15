@@ -8,12 +8,6 @@ MapLibre's policy on AI generated contributions is that contributors are permitt
 
 Within our project, the additional time and cognitive load required to parse verbose or hallucinated responses is not sustainable. Your contributions are the heart of our community; this policy specifies the baseline standard under which maintainers will decline to spend time on contributions that dilute our efforts to integrate what you bring.
 
-## Contributor responsibility
-
-The expectations in this section apply to every contribution, with or without AI assistance. We make them explicit here because coding with AI assistance can easily pull contributors outside their domains of comfort and experience.
-
-In addition to the specific requirements listed below, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
-
 ### Maintainer authority
 
 Maintainers are not obligated to debug or explain code on an author's behalf, nor to reproduce bug reports the filer has not verified. A contribution whose author cannot meet the expectations will be closed. Closing is not hostile; it is how maintainer time is protected.
@@ -36,4 +30,6 @@ Disclose significant AI assistance in your PR or bug report by adding `Assisted-
 
 ## How this is operationalized
 
-Please review the per-repository contributor documents, e.g. CONTRIBUTING.md and other documentation within each specific repository, for additional specific details and requirements.
+When using LLMs to assist with or generate code, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
+
+Please review the per-repository contributor documents for additional specific details and requirements.
