@@ -2,7 +2,7 @@
 
 **MapLibre welcomes AI-assisted contributions. Contributions the author cannot explain or has not verified are not welcome, regardless of how they were produced.**
 
-MapLibre's policy on AI generated contributions is that contributors are permitted to use artificial intelligence tools to produce contributions. However, contributors are responsible for their contributions, and must ensure their quality. Contributors must also ensure consistency with all relevant copyright, intellectual property, and licensing restrictions.
+MapLibre's policy on AI generated contributions is that contributors are permitted to use artificial intelligence tools to produce contributions. However, contributors are responsible for their contributions, and must ensure their quality.
 
 ## Why this policy exists
 
@@ -12,22 +12,21 @@ Within our project, the additional time and cognitive load required to parse ver
 
 The expectations in this section apply to every contribution, with or without AI assistance. We make them explicit here because coding with AI assistance can easily pull contributors outside their domains of comfort and experience.
 
-In addition to the specific requirements listed below, ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
+In addition to the specific requirements listed below, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
 
 ### Pull requests
 
 When you file a pull request:
 
-- You must have run the code and verified it behaves as you claim.
-- You must understand how to write and contribute tests, and what the test coverage you add means.
-- You must understand what your changes do. During code review, you must be able to explain each significant change in your own words.
+- Please run the code to verify it works. This includes any unit or integration tests you add.
+- Please anticipate and be able to explain each significant change in your own words.
 
 If you cannot answer reviewer questions about your own PR in a straightforward manner, the PR will be closed.
 
 ### Bug reports
 
-- You must personally reproduce the issue using a working minimal demonstration. An AI tool's description of a bug is not a reproducer.
-- Reports whose filer does not supply a working demonstration on request will be closed.
+- Please reproduce the issue using a working minimal demonstration. An AI tool's description of a bug is not a reproducer.
+- If you are unable to reproduce the issue, please indicate this in the bug report.
 
 ### Maintainer authority
 
