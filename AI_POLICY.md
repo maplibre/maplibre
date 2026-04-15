@@ -30,6 +30,6 @@ Disclose significant AI assistance in your PR or bug report by adding `Assisted-
 
 ## How this is operationalized
 
-When using LLMs to assist with or generate code, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
+In addition to disclosing, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
 
 Please review the per-repository contributor documents for additional specific details and requirements.
