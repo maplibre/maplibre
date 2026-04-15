@@ -14,20 +14,6 @@ The expectations in this section apply to every contribution, with or without AI
 
 In addition to the specific requirements listed below, please ensure your code, comments, and explanations are free of unnecessary repetition, vague assertions, or contradictory statements.
 
-### Pull requests
-
-When you file a pull request:
-
-- Please run the code to verify it works. This includes any unit or integration tests you add.
-- Please anticipate and be able to explain each significant change in your own words.
-
-If you cannot answer reviewer questions about your own PR in a straightforward manner, the PR will be closed.
-
-### Bug reports
-
-- Please reproduce the issue using a working minimal demonstration. An AI tool's description of a bug is not a reproducer.
-- If you are unable to reproduce the issue, please indicate this in the bug report.
-
 ### Maintainer authority
 
 Maintainers are not obligated to debug or explain code on an author's behalf, nor to reproduce bug reports the filer has not verified. A contribution whose author cannot meet the expectations will be closed. Closing is not hostile; it is how maintainer time is protected.
