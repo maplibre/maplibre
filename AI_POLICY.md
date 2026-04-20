@@ -8,7 +8,16 @@ Contributors should be sufficiently confident that their contribution is high en
 
 ## Disclosure
 
-Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**, including in issues, pull requests and bug reports. Disclosure is not penalized during PR review: our policy on labelling is intended to help reviewers calibrate attention and ask better follow-up questions. Contributors should note details on tool usage (such as models and prompts used) in PR descriptions.
+Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**, including in issues, pull requests and bug reports.
+
+"Substantially" means different things depending on the type of content:
+
+- **Code**: any generation beyond single-line autocomplete, such as whole functions, tests, or algorithms
+- **Written content** (PR descriptions, issue reports, documentation, comments): anything more than a sentence or two that you did not type yourself
+
+Disclosure is not penalized during PR review.
+
+Contributors should note details on tool usage (such as models and prompts used) in PR descriptions.
 
 ## Using AI for communication
 
