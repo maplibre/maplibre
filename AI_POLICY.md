@@ -4,7 +4,7 @@ MapLibre's policy is that contributors can use whatever tools they would like to
 
 ## Disclosure
 
-Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**, including in issues, pull requests and bug reports. Disclosure is not penalized during PR review: our policy on labelling intended to help reviewers calibrate attention and ask better follow-up questions. Contributors should note details on tool usage (such as models and prompts used) in PR descriptions.
+Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**, including in issues, pull requests and bug reports. Disclosure is not penalized during PR review: our policy on labelling is intended to help reviewers calibrate attention and ask better follow-up questions. Contributors should note details on tool usage (such as models and prompts used) in PR descriptions.
 
 ## Using AI for communication
 
