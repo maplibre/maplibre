@@ -23,7 +23,7 @@ Contributors should note details on tool usage (such as models and prompts used)
 
 To ensure sufficient self review and understanding of the work, it is strongly recommended that contributors write PR descriptions themselves (if needed, using tools for translation or copy-editing). The PR description should explain the motivation, implementation approach, expected impact, and any open questions or uncertainties to the same extent as a contribution made without tool assistance.
 
-Do not post AI-generated messages in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation.
+Do not post AI-generated messages in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation, just don't auto-generate it.
 
 <!-- Adapted from Zulip https://zulip.readthedocs.io/en/latest/contributing/contributing.html#using-ai-for-communication -->
 
