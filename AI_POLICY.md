@@ -1,6 +1,10 @@
 # AI Contributions Policy
 
-MapLibre's policy is that contributors can use whatever tools they would like to craft their contributions, but there must be a **human in the loop**. **Contributors must read and review all LLM-generated code before marking a pull request as ready for review**. The contributor is always the author and is fully accountable for their contributions, which includes ensuring their contributions are aligned with repository specific contribution guidelines. Contributors should be sufficiently confident that their contribution is high enough quality that asking for a review is a good use of scarce maintainer time, and they should be **able to answer questions about their work** during review.
+MapLibre's policy is that contributors can use whatever tools they would like to craft their contributions, but there must be a **human in the loop**.
+
+**Contributors must read and review all LLM-generated code before marking a pull request as ready for review**. The contributor is always the author and is fully accountable for their contributions, which includes ensuring their contributions are aligned with repository-specific contribution guidelines.
+
+Contributors should be sufficiently confident that their contribution is high enough quality that asking for a review is a good use of scarce maintainer time, and they should be **able to answer questions about their work** during review.
 
 ## Disclosure
 
@@ -10,7 +14,7 @@ Community members are **expected to be transparent and label contributions that 
 
 To ensure sufficient self review and understanding of the work, it is strongly recommended that contributors write PR descriptions themselves (if needed, using tools for translation or copy-editing). The PR description should explain the motivation, implementation approach, expected impact, and any open questions or uncertainties to the same extent as a contribution made without tool assistance.
 
-Do not post post AI-generated messages in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation.
+Do not post AI-generated messages in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation.
 
 <!-- Adapted from Zulip https://zulip.readthedocs.io/en/latest/contributing/contributing.html#using-ai-for-communication -->
 
