@@ -16,7 +16,7 @@ Do not post post AI-generated messages in discussions and issues as your own. We
 
 ## Handling Violations
 
-If a maintainer judges that a contribution doesn't comply with this policy, they should paste the following response:
+If a maintainer judges that a contribution doesn't comply with this policy, they may paste the following response:
 
 ```md
 This PR doesn't appear to comply with our policy on LLM usage
