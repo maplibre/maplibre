@@ -1,6 +1,6 @@
 # AI Contributions Policy
 
-MapLibre's policy is that contributors can use whatever tools they would like to craft their contributions, but there must be a **human in the loop**. **Contributors must read and review all LLM-generated code before marking a pull request as ready for review**. The contributor is always the author and is fully accountable for their contributions, which includes ensuring they are aligned with repository specific contribution guidelines. Contributors should be sufficiently confident that their contribution is high enough quality that asking for a review is a good use of scarce maintainer time, and they should be **able to answer questions about their work** during review.
+MapLibre's policy is that contributors can use whatever tools they would like to craft their contributions, but there must be a **human in the loop**. **Contributors must read and review all LLM-generated code before marking a pull request as ready for review**. The contributor is always the author and is fully accountable for their contributions, which includes ensuring their contributions are aligned with repository specific contribution guidelines. Contributors should be sufficiently confident that their contribution is high enough quality that asking for a review is a good use of scarce maintainer time, and they should be **able to answer questions about their work** during review.
 
 ## Disclosure
 
