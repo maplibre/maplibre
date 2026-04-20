@@ -29,7 +29,7 @@ Do not post AI-generated messages in discussions and issues as your own. We want
 
 ## Handling Violations
 
-Maintainers are free to handle suspected violations of this policy in a way they deem appropiate, for example by closing pull requests or hiding unhelpful AI generated messages. Maintainers are encouraged to link to this policy when enforcing it, in order to spread awareness about the expectations around AI assisted contributions in our community.
+Maintainers are free to handle suspected violations of this policy in a way they deem appropriate, for example by closing pull requests or hiding unhelpful AI generated messages.
 
 ## Copyright and licensing
 
