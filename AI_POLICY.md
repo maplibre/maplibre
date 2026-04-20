@@ -29,13 +29,7 @@ Do not post AI-generated messages in discussions and issues as your own. We want
 
 ## Handling Violations
 
-If a maintainer judges that a contribution doesn't comply with this policy, they may paste the following response:
-
-```md
-This PR doesn't appear to comply with our policy on LLM usage
-and requires additional justification for why it is valuable enough to the
-project for us to review it. Please see MapLibre's [AI contributions policy](https://github.com/maplibre/maplibre/blob/main/AI_POLICY.md).
-```
+Maintainers are free to handle suspected violations of this policy in a way they deem appropiate, for example by closing pull requests or hiding unhelpful AI generated messages. Maintainers are encouraged to link to this policy when enforcing it, in order to spread awareness about the expectations around AI assisted contributions in our community.
 
 ## Copyright and licensing
 
