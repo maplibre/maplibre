@@ -6,24 +6,24 @@ MapLibre's policy is that contributors can use whatever tools they would like to
 
 Contributors should be sufficiently confident that their contribution is high enough quality that asking for a review is a good use of scarce maintainer time, and they should be **able to answer questions about their work** during review.
 
-## Disclosure
+## AI usage in contributions
 
-Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**, including in issues, pull requests and bug reports.
+Community members are **expected to be transparent and label contributions that contain substantial amounts of tool-generated content**.
 
-"Substantially" means different things depending on the type of content:
+"Substantial" means different things depending on the type of contribution:
 
-- **Code**: any generation beyond single-line autocomplete, such as whole functions, tests, or algorithms
-- **Written content** (PR descriptions, issue reports, documentation, comments): anything more than a sentence or two that you did not type yourself
+- **Code**: any generation beyond single-line autocomplete, such as whole functions, tests, or algorithms.
+- **Documentation**: anything more than a few words.
 
 Disclosure is not penalized during PR review.
 
 Contributors should note details on tool usage (such as models and prompts used) in PR descriptions.
 
-## Using AI for communication
+## AI usage in communication
 
-To ensure sufficient self review and understanding of the work, it is strongly recommended that contributors write PR descriptions themselves (if needed, using tools for translation or copy-editing). The PR description should explain the motivation, implementation approach, expected impact, and any open questions or uncertainties to the same extent as a contribution made without tool assistance.
+To ensure sufficient self review and understanding of the work, it is strongly recommended that **contributors write PR descriptions themselves** (if needed, using tools for translation or copy-editing). The PR description should explain the motivation, implementation approach, expected impact, and any open questions or uncertainties to the same extent as a contribution made without tool assistance.
 
-Do not post AI-generated messages in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation, just don't auto-generate it.
+**Do not post AI-generated messages** in discussions and issues as your own. We want to read your own genuine expression of your thoughts. It's fine to use whatever tools you like for help with spelling, grammar, or translation, just don't auto-generate it.
 
 <!-- Adapted from Zulip https://zulip.readthedocs.io/en/latest/contributing/contributing.html#using-ai-for-communication -->
 
