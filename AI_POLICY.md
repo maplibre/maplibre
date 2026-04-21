@@ -38,4 +38,3 @@ Using AI tools to regenerate copyrighted material does not remove the copyright.
 <!-- License: Apache License Version 2.0 -->
 
 <!-- This AI policy has sections adapted from Zulip https://zulip.readthedocs.io/en/latest/contributing/contributing.html#using-ai-for-communication -->
-
