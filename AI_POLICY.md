@@ -14,7 +14,7 @@ To ensure sufficient self review and understanding of the work, it is strongly r
 
 ## Disclosure
 
-Community members are expected to be transparent and **label pull requests, issues, and other contributions** that contain substantial amounts of LLM-generated content.
+Community members are expected to be transparent and disclose AI usage in contributions submitted for review that contain substantial amounts of LLM-generated content.
 
 "Substantial" means different things depending on the type of contribution:
 
