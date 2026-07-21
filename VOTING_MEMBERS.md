@@ -8,13 +8,13 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@1ec5](https://github.com/1ec5)
 
-[@AtlasProgramming](https://github.com/AtlasProgramming)
+[@acalcutt](https://github.com/acalcutt)
 
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
-[@acalcutt](https://github.com/acalcutt)
-
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
+
+[@alasram](https://github.com/alasram)
 
 [@AlexanderThiele](https://github.com/AlexanderThiele) (OCELL)
 
@@ -22,11 +22,11 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ambientlight](https://github.com/ambientlight) (Microsoft)
 
-[@alasram](https://github.com/alasram)
-
 [@archdoog](https://github.com/archdoog) (Rallista)
 
 [@atierian](https://github.com/atierian) (AWS)
+
+[@AtlasProgramming](https://github.com/AtlasProgramming)
 
 [@bchapuis](https://github.com/bchapuis)
 
@@ -74,15 +74,15 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
 
-[@HarelM](https://github.com/harelm)
-
 [@HandyMenny](https://github.com/HandyMenny)
 
-[@hyperknot](https://github.com/hyperknot)
+[@HarelM](https://github.com/harelm)
 
 [@hoeflehner](https://github.com/hoeflehner) (Maptoolkit)
 
 [@hy9be](https://github.com/hy9be) (AWS)
+
+[@hyperknot](https://github.com/hyperknot)
 
 [@ianthetechie](https://github.com/ianthetechie) (Stadia Maps)
 
@@ -146,8 +146,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
-[@mojodna](https://github.com/mojodna) (AWS)
-
 [@msbarry](https://github.com/msbarry)
 
 [@muesliq](https://github.com/muesliq) (Maptoolkit)
@@ -158,19 +156,19 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@NathanMOlson](https://github.com/NathanMOlson)
 
-[@nitrag](https://github.com/nitrag)
+[@neodescis](https://github.com/neodescis)
 
-[@ntadej](https://github.com/ntadej)
+[@nitrag](https://github.com/nitrag)
 
 [@nreese](https://github.com/nreese) (Elastic)
 
-[@neodescis](https://github.com/neodescis)
+[@ntadej](https://github.com/ntadej)
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
-[@olsen232](https://github.com/olsen232)
-
 [@OlexandrStepanov](https://github.com/OlexandrStepanov)
+
+[@olsen232](https://github.com/olsen232)
 
 [@ovivoda](https://github.com/ovivoda)
 
@@ -178,9 +176,9 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Pessimistress](https://github.com/pessimistress) (Microsoft)
 
-[@petrsloup](https://github.com/petrsloup) (MapTiler)
-
 [@petr-pokorny-1](https://github.com/petr-pokorny-1) (MapTiler)
+
+[@petrsloup](https://github.com/petrsloup) (MapTiler)
 
 [@Pheonor](https://github.com/pheonor)
 
@@ -212,6 +210,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sdf-jkl](https://github.com/sdf-jkl)
 
+[@sethfitz](https://github.com/sethfitz)
+
 [@sharkAndshark](https://github.com/sharkAndshark)
 
 [@ShellyDCMS](https://github.com/ShellyDCMS)
@@ -226,9 +226,9 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@smellyshovel](https://github.com/smellyshovel)
 
-[@stefankarschti](https://github.com/stefankarschti)
-
 [@springmeyer](https://github.com/springmeyer) (Dane Springmeyer LLC)
+
+[@stefankarschti](https://github.com/stefankarschti)
 
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
@@ -274,9 +274,9 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@wayofthefuture](https://github.com/wayofthefuture)
 
-[@westnordost](https://github.com/westnordost)
-
 [@Weixing-Zhang](https://github.com/Weixing-Zhang)
+
+[@westnordost](https://github.com/westnordost)
 
 [@wipfli](https://github.com/wipfli)
 
