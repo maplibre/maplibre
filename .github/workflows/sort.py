@@ -1,7 +1,7 @@
 from pathlib import Path
 import re
 
-VOTING_MEMBERS_PATH = Path("../../VOTING_MEMBERS.md")
+VOTING_MEMBERS_PATH = Path("VOTING_MEMBERS.md")
 USERNAME_PATTERN = re.compile(r"\[@([^\]]+)\]")
 
 def main() -> None:
