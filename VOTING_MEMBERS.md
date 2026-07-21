@@ -248,6 +248,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
 
+[@Turtelll](https://github.com/Turtelll)
+
 [@todtb](https://github.com/todtb)
 
 [@tomeronen](https://github.com/tomeronen)
