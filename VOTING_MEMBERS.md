@@ -8,8 +8,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
-[@Auspicus](https://github.com/Auspicus)
-
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
@@ -27,6 +25,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@atierian](https://github.com/atierian) (AWS)
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
+
+[@Auspicus](https://github.com/Auspicus)
 
 [@bchapuis](https://github.com/bchapuis)
 
