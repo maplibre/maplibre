@@ -144,8 +144,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
-[@mojodna](https://github.com/mojodna) (AWS)
-
 [@msbarry](https://github.com/msbarry)
 
 [@muesliq](https://github.com/muesliq) (Maptoolkit)
@@ -209,6 +207,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@sbachinin](https://github.com/sbachinin)
 
 [@sdf-jkl](https://github.com/sdf-jkl)
+
+[@sethfitz](https://github.com/sethfitz)
 
 [@sharkAndshark](https://github.com/sharkAndshark)
 
