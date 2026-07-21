@@ -248,8 +248,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
 
-[@Turtelll](https://github.com/Turtelll)
-
 [@todtb](https://github.com/todtb)
 
 [@tomeronen](https://github.com/tomeronen)
@@ -259,6 +257,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@tordans](https://github.com/tordans) (FixMyCity GmbH)
 
 [@Tristramg](https://github.com/Tristramg) (Codeurs en Liberté)
+
+[@Turtelll](https://github.com/Turtelll)
 
 [@typebrook](https://github.com/typebrook)
 
