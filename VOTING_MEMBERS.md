@@ -6,6 +6,8 @@ This file lists all MapLibre Voting Members. See the [Charter](https://github.co
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+[@01100100](https://github.com/01100100)
+
 [@acalcutt](https://github.com/acalcutt)
 
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
