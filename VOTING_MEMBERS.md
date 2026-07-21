@@ -40,6 +40,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@caspg](https://github.com/caspg)
 
+[@cgalvan](https://github.com/cgalvan) (AWS)
+
 [@chippieTV](https://github.com/chippieTV)
 
 [@ChrisLoer](https://github.com/ChrisLoer) (Felt)
