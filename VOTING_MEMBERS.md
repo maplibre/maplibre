@@ -258,6 +258,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Tristramg](https://github.com/Tristramg) (Codeurs en Liberté)
 
+[@Turtelll](https://github.com/Turtelll)
+
 [@typebrook](https://github.com/typebrook)
 
 [@tyrauber](https://github.com/tyrauber)
