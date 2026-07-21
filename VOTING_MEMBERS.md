@@ -38,6 +38,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
+[@candux](https://github.com/candux)
+
 [@caspg](https://github.com/caspg)
 
 [@chippieTV](https://github.com/chippieTV)
