@@ -67,7 +67,7 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
 - [ ] Set up branch ruleset to require CI pass before merge.  Non-trivial projects should also require an approval before merging.
 - [ ] Set up branch ruleset to prevent branch creation - this will prevent accidental pushes directly to the repo, and force all developers to use their own forks.
 
-## Miscelaneous
+## Miscellaneous
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
