@@ -230,9 +230,9 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
-[@styrowolf](https://github.com/styrowolf)
-
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
+
+[@styrowolf](https://github.com/styrowolf)
 
 [@sulewicz](https://github.com/sulewicz)
 
