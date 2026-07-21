@@ -56,6 +56,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@dennemark](https://github.com/dennemark) (Form Follows You)
 
+[@DoFabien](https://github.com/DoFabien)
+
 [@drwestco](https://github.com/drwestco) (Microsoft)
 
 [@duje](https://github.com/duje)
