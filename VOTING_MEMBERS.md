@@ -244,6 +244,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@thehoneymad](https://github.com/thehoneymad) (AWS)
 
+[@thomfuhrmann](https://github.com/thomfuhrmann)
+
 [@TimSylvester](https://github.com/TimSylvester) (Wet Dog Weather)
 
 [@tjulien](https://github.com/tjulien) (Radar Labs, Inc.)
