@@ -130,6 +130,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mactrem](https://github.com/mactrem) (Rohde & Schwarz)
 
+[@manbhav234](https://github.com/manbhav234)
+
 [@marcjulian](https://github.com/marcjulian)
 
 [@marcregan](https://github.com/marcregan) (Meta)
