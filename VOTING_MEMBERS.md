@@ -8,6 +8,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
 
+[@murmele](https://github.com/murmele) (Slint)
+
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@acalcutt](https://github.com/acalcutt)
