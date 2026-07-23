@@ -148,6 +148,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@muesliq](https://github.com/muesliq) (Maptoolkit)
 
+[@murmele](https://github.com/murmele) (Slint)
+
 [@mwilsnd](https://github.com/mwilsnd) (Meta)
 
 [@n-elhk](https://github.com/n-elhk)
