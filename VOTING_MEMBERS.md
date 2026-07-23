@@ -8,8 +8,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
 
-[@ciscorn](https://github.com/ciscorn) (MIERUNE Inc.)
-
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@acalcutt](https://github.com/acalcutt)
@@ -47,6 +45,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@ChrisLoer](https://github.com/ChrisLoer) (Felt)
 
 [@chrneumann](https://github.com/chrneumann)
+
+[@ciscorn](https://github.com/ciscorn) (MIERUNE Inc.)
 
 [@coliff](https://github.com/coliff)
 
