@@ -220,7 +220,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
-[@smellman](https://github.com/smellman)
+[@smellman](https://github.com/smellman) (Geolonia)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
