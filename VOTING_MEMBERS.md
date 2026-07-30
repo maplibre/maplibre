@@ -8,7 +8,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
-[@zarechnyy](http://github.com/zarechnyy)
+[@zarechnyy](http://github.com/zarechnyy) (Lyft)
 
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
