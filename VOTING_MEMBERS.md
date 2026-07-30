@@ -8,8 +8,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
-[@zarechnyy](http://github.com/zarechnyy) (Lyft)
-
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
@@ -283,6 +281,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@xabbu42](https://github.com/xabbu42) (localsearch)
 
 [@yousifd](https://github.com/yousifd) (HudHud)
+
+[@zarechnyy](http://github.com/zarechnyy) (Lyft)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
