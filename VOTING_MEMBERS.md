@@ -280,6 +280,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@xabbu42](https://github.com/xabbu42) (localsearch)
 
+[@xavierjs](https://github.com/xavierjs) (Palantir Technologies)
+
 [@yousifd](https://github.com/yousifd) (HudHud)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
