@@ -8,8 +8,6 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
-[@vvinogra](https://github.com/vvinogra)
-
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
@@ -271,6 +269,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@vicb](https://github.com/vicb)
 
 [@visitskyworld](https://github.com/visitskyworld)
+
+[@vvinogra](https://github.com/vvinogra)
 
 [@wayofthefuture](https://github.com/wayofthefuture)
 
