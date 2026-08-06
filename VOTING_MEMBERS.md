@@ -282,7 +282,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@yousifd](https://github.com/yousifd) (HudHud)
 
-[@zarechnyy](https://github.com/zarechnyy)
+[@zarechnyy](https://github.com/zarechnyy) (Lyft)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
