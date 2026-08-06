@@ -270,7 +270,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
-[@vvinogra](https://github.com/vvinogra)
+[@vvinogra](https://github.com/vvinogra) (Lyft)
 
 [@wayofthefuture](https://github.com/wayofthefuture)
 
