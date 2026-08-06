@@ -8,6 +8,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@acalcutt](https://github.com/acalcutt)
 
+[@ekamp](https://github.com/ekamp) (Lyft)
+
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
 
 [@alanchenboy](https://github.com/alanchenboy) (Grab Technology (Beijing) Co., Ltd.)
