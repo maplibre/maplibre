@@ -94,6 +94,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@jleedev](https://github.com/jleedev)
 
+[@johanrd](https://github.com/johanrd) (Fremby AS)
+
 [@jonahadkins](https://github.com/jonahadkins) (Meta)
 
 [@JonasVautherin](https://github.com/JonasVautherin) (Auterion)
