@@ -122,6 +122,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@kuhnroyal](https://github.com/kuhnroyal)
 
+[@larsmaxfield](https://github.com/larsmaxfield) (Van Gogh Museum & ASML)
+
 [@louwers](https://github.com/louwers)
 
 [@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
