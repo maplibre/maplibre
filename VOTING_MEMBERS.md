@@ -126,6 +126,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@lseelenbinder](https://github.com/lseelenbinder) (Stadia Maps)
 
+[@lucaswoj](https://github.com/lucaswoj) (Scree LLC)
+
 [@m0nac0](https://github.com/m0nac0)
 
 [@mactrem](https://github.com/mactrem) (Rohde & Schwarz)
