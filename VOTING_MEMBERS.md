@@ -36,6 +36,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@boldtrn](https://github.com/boldtrn) (Kurviger)
 
+[@bradymadden97](https://github.com/bradymadden97)
+
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
 [@caspg](https://github.com/caspg)
