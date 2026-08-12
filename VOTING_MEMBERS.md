@@ -144,6 +144,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
+[@mondsichtung](https://github.com/mondsichtung)
+
 [@msbarry](https://github.com/msbarry)
 
 [@muesliq](https://github.com/muesliq) (Maptoolkit)
