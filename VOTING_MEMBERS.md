@@ -34,6 +34,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@birkskyum](https://github.com/birkskyum)
 
+[@bjperson](https://github.com/bjperson)
+
 [@boldtrn](https://github.com/boldtrn) (Kurviger)
 
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
