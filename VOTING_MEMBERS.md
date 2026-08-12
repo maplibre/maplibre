@@ -138,6 +138,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@maxammann](https://github.com/maxammann)
 
+[@melitele](https://github.com/melitele) (furkot)
+
 [@michaelkirk](https://github.com/michaelkirk)
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
