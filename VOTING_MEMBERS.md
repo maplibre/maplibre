@@ -68,6 +68,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@fynngodau](https://github.com/fynngodau)
 
+[@gabbopalma](https://github.com/gabbopalma) (EBWorld)
+
 [@grab-liyanjin](https://github.com/grab-liyanjin) (Grab Technology (Beijing) Co., Ltd.)
 
 [@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
