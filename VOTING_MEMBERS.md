@@ -166,6 +166,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mikestvz](https://github.com/mikestvz) (AWS)
 
+[@mizmay](https://github.com/mizmay)
+
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
 [@msbarry](https://github.com/msbarry)
