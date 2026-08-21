@@ -58,6 +58,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ciscorn](https://github.com/ciscorn) (MIERUNE Inc.)
 
+[@clement-igonet](https://github.com/clement-igonet)
+
 [@coliff](https://github.com/coliff)
 
 [@CommanderStorm](https://github.com/CommanderStorm) (Technical University of Munich)
