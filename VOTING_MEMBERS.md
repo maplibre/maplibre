@@ -232,6 +232,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@prozessor13](https://github.com/prozessor13) (Toursprung)
 
+[@pstaszek](https://github.com/pstaszek)
+
 [@ptomulik](https://github.com/ptomulik)
 
 [@ramyaragupathy](https://github.com/ramyaragupathy)
