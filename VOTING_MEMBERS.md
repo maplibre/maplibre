@@ -6,7 +6,10 @@ This file lists all MapLibre Voting Members. See the [Charter](https://github.co
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+
 [@01100100](https://github.com/01100100)
+
+[@1ec5](https://github.com/1ec5)
 
 [@acalcutt](https://github.com/acalcutt)
 
@@ -28,6 +31,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
 
+[@Auspicus](https://github.com/Auspicus)
+
 [@bchapuis](https://github.com/bchapuis)
 
 [@bdon](https://github.com/bdon)
@@ -41,6 +46,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
 [@caspg](https://github.com/caspg)
+
+[@cgalvan](https://github.com/cgalvan) (AWS)
 
 [@chippieTV](https://github.com/chippieTV)
 
@@ -70,6 +77,10 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@fynngodau](https://github.com/fynngodau)
 
+[@gabbopalma](https://github.com/gabbopalma) (EBWorld)
+
+[@gabeschine](https://github.com/gabeschine)
+
 [@grab-liyanjin](https://github.com/grab-liyanjin) (Grab Technology (Beijing) Co., Ltd.)
 
 [@hactar](https://github.com/hactar) (self-employed, MapLibre using clients include Bikemap, HudHud Maps and the City of Vienna)
@@ -91,6 +102,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@igal1c0de4n](https://github.com/igal1c0de4n) (Mapme)
 
 [@IvanSanchez](https://github.com/IvanSanchez)
+
+[@jake-low](https://github.com/jake-low)
 
 [@jeresuikkila](https://github.com/jeresuikkila/) (Mappedin)
 
@@ -132,6 +145,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mactrem](https://github.com/mactrem) (Rohde & Schwarz)
 
+[@manbhav234](https://github.com/manbhav234)
+
 [@marcjulian](https://github.com/marcjulian)
 
 [@marcregan](https://github.com/marcregan) (Meta)
@@ -143,6 +158,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@michaelkirk](https://github.com/michaelkirk)
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
+
+[@mikestvz](https://github.com/mikestvz) (AWS)
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
@@ -166,7 +183,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
-[@OlexandrStepanov](https://github.com/OlexandrStepanov)
+[@OlexandrStepanov](https://github.com/OlexandrStepanov) (Lyft)
 
 [@olsen232](https://github.com/olsen232)
 
@@ -222,7 +239,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
-[@smellman](https://github.com/smellman)
+[@smellman](https://github.com/smellman) (Geolonia)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
@@ -233,6 +250,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
+
+[@styrowolf](https://github.com/styrowolf)
 
 [@sulewicz](https://github.com/sulewicz)
 
@@ -245,6 +264,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@thaddmt](https://github.com/thaddmt) (AWS)
 
 [@thehoneymad](https://github.com/thehoneymad) (AWS)
+
+[@thomfuhrmann](https://github.com/thomfuhrmann)
 
 [@TimSylvester](https://github.com/TimSylvester) (Wet Dog Weather)
 
