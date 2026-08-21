@@ -312,6 +312,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@yousifd](https://github.com/yousifd) (HudHud)
 
+[@yuiseki](https://github.com/yuiseki) (Geolonia)
+
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zhangyiatmicrosoft](https://github.com/zhangyiatmicrosoft) (Microsoft)
