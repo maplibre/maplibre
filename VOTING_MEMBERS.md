@@ -6,6 +6,10 @@ This file lists all MapLibre Voting Members. See the [Charter](https://github.co
 
 The Voting Members, in alphabetic order by their GitHub handles, are:
 
+[@01100100](https://github.com/01100100)
+
+[@1ec5](https://github.com/1ec5)
+
 [@acalcutt](https://github.com/acalcutt)
 
 [@adrian-cojocaru](https://github.com/adrian-cojocaru) (AWS)
@@ -26,6 +30,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
 
+[@Auspicus](https://github.com/Auspicus)
+
 [@bchapuis](https://github.com/bchapuis)
 
 [@bdon](https://github.com/bdon)
@@ -38,13 +44,19 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@brendan-ward](https://github.com/brendan-ward) (self-employed, some time covered by client contracts)
 
+[@candux](https://github.com/candux)
+
 [@caspg](https://github.com/caspg)
+
+[@cgalvan](https://github.com/cgalvan) (AWS)
 
 [@chippieTV](https://github.com/chippieTV)
 
 [@ChrisLoer](https://github.com/ChrisLoer) (Felt)
 
 [@chrneumann](https://github.com/chrneumann)
+
+[@ciscorn](https://github.com/ciscorn) (MIERUNE Inc.)
 
 [@coliff](https://github.com/coliff)
 
@@ -55,6 +67,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@dayjournal](https://github.com/dayjournal) (Mierune)
 
 [@dennemark](https://github.com/dennemark) (Form Follows You)
+
+[@DoFabien](https://github.com/DoFabien)
 
 [@drwestco](https://github.com/drwestco) (Microsoft)
 
@@ -67,6 +81,10 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@fredj](https://github.com/fredj) (Camptocamp)
 
 [@fynngodau](https://github.com/fynngodau)
+
+[@gabbopalma](https://github.com/gabbopalma) (EBWorld)
+
+[@gabeschine](https://github.com/gabeschine)
 
 [@grab-liyanjin](https://github.com/grab-liyanjin) (Grab Technology (Beijing) Co., Ltd.)
 
@@ -89,6 +107,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@igal1c0de4n](https://github.com/igal1c0de4n) (Mapme)
 
 [@IvanSanchez](https://github.com/IvanSanchez)
+
+[@jake-low](https://github.com/jake-low)
 
 [@jeresuikkila](https://github.com/jeresuikkila/) (Mappedin)
 
@@ -130,6 +150,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@mactrem](https://github.com/mactrem) (Rohde & Schwarz)
 
+[@manbhav234](https://github.com/manbhav234)
+
 [@marcjulian](https://github.com/marcjulian)
 
 [@marcregan](https://github.com/marcregan) (Meta)
@@ -141,6 +163,10 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@michaelkirk](https://github.com/michaelkirk)
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
+
+[@mikestvz](https://github.com/mikestvz) (AWS)
+
+[@mizmay](https://github.com/mizmay)
 
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
@@ -164,7 +190,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
-[@OlexandrStepanov](https://github.com/OlexandrStepanov)
+[@OlexandrStepanov](https://github.com/OlexandrStepanov) (Lyft)
 
 [@olsen232](https://github.com/olsen232)
 
@@ -232,6 +258,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
 
+[@styrowolf](https://github.com/styrowolf)
+
 [@sulewicz](https://github.com/sulewicz)
 
 [@TatyanaPolunina](https://github.com/TatyanaPolunina) (Lyft)
@@ -243,6 +271,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@thaddmt](https://github.com/thaddmt) (AWS)
 
 [@thehoneymad](https://github.com/thehoneymad) (AWS)
+
+[@thomfuhrmann](https://github.com/thomfuhrmann)
 
 [@TimSylvester](https://github.com/TimSylvester) (Wet Dog Weather)
 
@@ -258,6 +288,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Tristramg](https://github.com/Tristramg) (Codeurs en Liberté)
 
+[@Turtelll](https://github.com/Turtelll)
+
 [@typebrook](https://github.com/typebrook)
 
 [@tyrauber](https://github.com/tyrauber)
@@ -270,6 +302,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
+[@vvinogra](https://github.com/vvinogra) (Lyft)
+
 [@wayofthefuture](https://github.com/wayofthefuture)
 
 [@Weixing-Zhang](https://github.com/Weixing-Zhang)
@@ -281,6 +315,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@xabbu42](https://github.com/xabbu42) (localsearch)
 
 [@yousifd](https://github.com/yousifd) (HudHud)
+
+[@yuiseki](https://github.com/yuiseki) (Geolonia)
 
 [@zarechnyy](https://github.com/zarechnyy) (Lyft)
 
