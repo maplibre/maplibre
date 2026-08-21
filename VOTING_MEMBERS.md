@@ -100,6 +100,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@IvanSanchez](https://github.com/IvanSanchez)
 
+[@jake-low](https://github.com/jake-low)
+
 [@jeresuikkila](https://github.com/jeresuikkila/) (Mappedin)
 
 [@jleedev](https://github.com/jleedev)
