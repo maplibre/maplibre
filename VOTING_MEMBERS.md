@@ -26,6 +26,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@AtlasProgramming](https://github.com/AtlasProgramming)
 
+[@Auspicus](https://github.com/Auspicus)
+
 [@bchapuis](https://github.com/bchapuis)
 
 [@bdon](https://github.com/bdon)
