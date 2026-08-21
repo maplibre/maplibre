@@ -318,6 +318,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@yuiseki](https://github.com/yuiseki) (Geolonia)
 
+[@zarechnyy](https://github.com/zarechnyy) (Lyft)
+
 [@ZeLonewolf](https://github.com/ZeLonewolf)
 
 [@zhangyiatmicrosoft](https://github.com/zhangyiatmicrosoft) (Microsoft)
