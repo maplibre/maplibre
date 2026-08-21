@@ -76,6 +76,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@ebrelsford](https://github.com/ebrelsford) (Stamen)
 
+[@ekamp](https://github.com/ekamp) (Lyft)
+
 [@Fabi755](https://github.com/Fabi755)
 
 [@fredj](https://github.com/fredj) (Camptocamp)
