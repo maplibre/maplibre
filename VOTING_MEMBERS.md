@@ -116,6 +116,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@jleedev](https://github.com/jleedev)
 
+[@johanrd](https://github.com/johanrd) (Fremby AS)
+
 [@johncarmack1984](https://github.com/johncarmack1984)
 
 [@jonahadkins](https://github.com/jonahadkins) (Meta)
