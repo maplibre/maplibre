@@ -116,6 +116,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@jleedev](https://github.com/jleedev)
 
+[@johncarmack1984](https://github.com/johncarmack1984)
+
 [@jonahadkins](https://github.com/jonahadkins) (Meta)
 
 [@JonasVautherin](https://github.com/JonasVautherin) (Auterion)
