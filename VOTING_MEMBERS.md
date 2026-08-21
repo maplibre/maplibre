@@ -302,6 +302,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@visitskyworld](https://github.com/visitskyworld)
 
+[@vvinogra](https://github.com/vvinogra) (Lyft)
+
 [@wayofthefuture](https://github.com/wayofthefuture)
 
 [@Weixing-Zhang](https://github.com/Weixing-Zhang)
