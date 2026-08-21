@@ -68,6 +68,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@fynngodau](https://github.com/fynngodau)
 
+[@gabbopalma](https://github.com/gabbopalma) (EBWorld)
+
 [@gabeschine](https://github.com/gabeschine)
 
 [@grab-liyanjin](https://github.com/grab-liyanjin) (Grab Technology (Beijing) Co., Ltd.)
@@ -144,6 +146,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@Miguel-Sanches](https://github.com/Miguel-Sanches) (one.network)
 
+[@mikestvz](https://github.com/mikestvz) (AWS)
+
 [@mnutt](https://github.com/mnutt) (Movable Ink)
 
 [@msbarry](https://github.com/msbarry)
@@ -166,7 +170,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@nyurik](https://github.com/nyurik) (Rivian)
 
-[@OlexandrStepanov](https://github.com/OlexandrStepanov)
+[@OlexandrStepanov](https://github.com/OlexandrStepanov) (Lyft)
 
 [@olsen232](https://github.com/olsen232)
 
@@ -222,7 +226,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@sjoerdperfors](https://github.com/sjoerdperfors) (Flitsmeister)
 
-[@smellman](https://github.com/smellman)
+[@smellman](https://github.com/smellman) (Geolonia)
 
 [@smellyshovel](https://github.com/smellyshovel)
 
@@ -233,6 +237,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@stefanschaller](https://github.com/stefanschaller) (tapped.dev)
 
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
+
+[@styrowolf](https://github.com/styrowolf)
 
 [@sulewicz](https://github.com/sulewicz)
 
@@ -245,6 +251,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@thaddmt](https://github.com/thaddmt) (AWS)
 
 [@thehoneymad](https://github.com/thehoneymad) (AWS)
+
+[@thomfuhrmann](https://github.com/thomfuhrmann)
 
 [@TimSylvester](https://github.com/TimSylvester) (Wet Dog Weather)
 
