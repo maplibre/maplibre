@@ -232,6 +232,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@stuartlynn](https://github.com/stuartlynn) (University of Chicago)
 
+[@styrowolf](https://github.com/styrowolf)
+
 [@sulewicz](https://github.com/sulewicz)
 
 [@TatyanaPolunina](https://github.com/TatyanaPolunina) (Lyft)
