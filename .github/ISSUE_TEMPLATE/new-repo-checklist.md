@@ -32,8 +32,6 @@ If the above is not the case, the following requirements must be met:
 - [ ] Any three board members must agree to accept a new repository.
   **Approved by:** <@user1> <@user2> <@user3>
 
-[^1]: Repositories
-
 ## Licensing
 
 - [ ] The repo license is BSD-3 or MIT.
