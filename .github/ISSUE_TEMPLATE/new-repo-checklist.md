@@ -29,8 +29,7 @@ If the above is not the case, the following requirements must be met:
 
 - [ ] The community has had a chance to respond to onboarding this repository. For example: this issue has been announced on the main MapLibre Slack channel and has been open for at least two weeks.
 
-- [ ] Any three board members must agree to accept a new repository.
-  **Approved by:** <@user1> <@user2> <@user3>
+- [ ] Three board members have left a comment approving the onboarding of this repository.
 
 ## Licensing
 
