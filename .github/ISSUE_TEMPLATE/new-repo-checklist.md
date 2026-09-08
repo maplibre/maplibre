@@ -25,11 +25,11 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
 
 - [ ] This repository is a dependency or in direct support of a [core or supported MapLibre project](https://github.com/maplibre/maplibre/blob/main/PROJECT_TIERS.md#list-of-projects).
 
-If the above is not the case, the following requirements must be met:
+- If the above is not the case, the following requirements must both be met:
 
-- [ ] The community has had a chance to respond to onboarding this repository. For example: this issue has been announced on the main MapLibre Slack channel and has been open for at least two weeks.
-
-- [ ] Three board members have left a comment approving the onboarding of this repository.
+  - [ ] The community has had a chance to respond to onboarding this repository.
+        For example: this issue has been announced on the main MapLibre Slack channel and has been open for at least two weeks.
+  - [ ] Three board members have left a comment approving the onboarding of this repository.
 
 ## Licensing
 
