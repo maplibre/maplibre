@@ -9,6 +9,7 @@ labels: onboarding
 https://github.com/maplibre/[repo]
 
 ## Overview
+
 Thank you for your interest in onboarding a new repository to the MapLibre organization! To onboard your repository, you'll need to do the following:
 - Create an issue with this template, explain your motivation and follow the checklists contained within.
 - Get approval from two MapLibre board members.
@@ -17,13 +18,24 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
 - Address any remaining change requests listed in your issue and close it out.
 
 ## Motivation
+
 **<...Explain why this repo is good for MapLibre project, its goals, and any other relevant info...>**
 
 ## Acceptance
-- [ ] Any two board members must agree to accept a new repository.
-  **Approved by:** <@user1> <@user2>
+
+- [ ] This repository is a dependency or in direct support of a [core or supported MapLibre project](https://github.com/maplibre/maplibre/blob/main/PROJECT_TIERS.md#list-of-projects).
+
+If the above is not the case, the following requirements must be met:
+
+- [ ] The community has had a chance to respond to onboarding this repository. For example: this issue has been announced on the main MapLibre Slack channel and has been open for at least two weeks.
+
+- [ ] Any three board members must agree to accept a new repository.
+  **Approved by:** <@user1> <@user2> <@user3>
+
+[^1]: Repositories
 
 ## Licensing
+
 - [ ] The repo license is BSD-3 or MIT.
   *Repos may allow dual-licensing under other open source licenses, e.g. MIT OR Apache.*
 - [ ] The repo contains `Copyright (c) <year> MapLibre contributors` in license file(s) and in the readme.
@@ -52,7 +64,9 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
   ```
 
 ## Repo Settings
+
 #### General page
+
 - [ ] **[Features]** Disable unused features like wiki.
 - [ ] **[Features]** Enable `Sponsorships` checkbox (see also FUNDING.yaml above).
 - [ ] **[Features]** Enable `Preserve this repository`.
@@ -60,14 +74,17 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
 - [ ] **[Pull Requests]** Enable `Automatically delete head branches`.
 
 #### Access
+
 - [ ] The repo has at least one admin who is ideally not part of the Governing Board: <@user>
 
 #### Branches
+
 - [ ] The primary branch is named `main`.
 - [ ] Set up branch ruleset to require CI pass before merge.  Non-trivial projects should also require an approval before merging.
 - [ ] Set up branch ruleset to prevent branch creation - this will prevent accidental pushes directly to the repo, and force all developers to use their own forks.
 
 ## Miscellaneous
+
 - [ ] Repo has a proper GitHub description and an optional web site
   *Use the gear icon in the upper right corner of the repo page.*
 - [ ] CI automatically runs on all pull requests before merging using GitHub actions
@@ -76,6 +93,7 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
     - [crates.io](https://crates.io/): package settings / add owner: `nyurik birkskyum CommanderStorm`
 
 ## Community
+
 - [ ] The new repo has been announced in the `#maplibre` OSMUS slack channel.
 - [ ] The new repo has been announced in the next monthly meeting of the Technical Steering Committee.
 - [ ] The new repo has been announced in the newsletter (which is shared on social media).
