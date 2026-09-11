@@ -1,0 +1,54 @@
+OpaVote Election Results (https://opavote.com/)
+
+MapLibre Governing Board Election 2026
+
+There are 7 candidates competing for 5 seats. The number of voters is 103 and
+there were 103 valid votes and 0 empty votes.
+
+Method Options:
+    Precision -- 6
+    Threshold Formula -- Droop
+    Dynamic Threshold -- Dynamic
+    Fractional Threshold -- Fractional
+    Weak Tie Breaking -- Backward
+    Remove Overvotes -- Skip
+    Remove Undervotes -- Skip
+
+Counting votes using Meek STV.
+
+ R|Yuri Astrakhan|Devesh Kumar (|Malcolm Toon  |Sargun Vohra  |Zarichnyi Yaro
+  |              |Dev)          |              |              |slav          
+  |--------------------------------------------------------------------------
+  |Stefan Karscht|Minh Nguyễn   |Exhausted     |Surplus       |Threshold     
+  |i             |              |              |              |              
+=============================================================================
+ 1|     54.000000|      8.000000|      3.000000|      7.000000|      4.000000
+  |      9.000000|     18.000000|      0.000000|     37.666666|     17.166667
+  |--------------------------------------------------------------------------
+  | Count of first choices. Candidates Yuri Astrakhan and Minh Nguyễn have
+  | reached the threshold and are elected.
+=============================================================================
+ 2|     17.255013|     15.119900|      5.185182|     12.833578|      7.644112
+  |     14.785140|     30.177063|      0.000012|     13.098746|     17.166665
+  |--------------------------------------------------------------------------
+  | Count after transferring surplus votes. Keep factors of candidates who
+  | have exceeded the threshold: Yuri Astrakhan, 0.317902 and Minh Nguyễn,
+  | 0.953704.
+=============================================================================
+ 3|     17.946969|     17.796993|      6.423588|     16.199798|      9.729390
+  |     17.718917|     17.184334|      0.000011|      1.980553|     17.166665
+  |--------------------------------------------------------------------------
+  | Count after transferring surplus votes. Keep factors of candidates who
+  | have exceeded the threshold: Yuri Astrakhan, 0.316275 and Minh Nguyễn,
+  | 0.542529. Candidates Devesh Kumar (Dev) and Stefan Karschti have reached
+  | the threshold and are elected.
+=============================================================================
+ 4|     18.263244|     18.254464|              |     17.340994|     12.096840
+  |     19.489172|     17.555275|      0.000011|      5.069824|     17.166665
+  |--------------------------------------------------------------------------
+  | Count after eliminating Malcolm Toon and transferring votes. All losing
+  | candidates are eliminated. Candidate Sargun Vohra has reached the
+  | threshold and is elected.
+
+Winners are Yuri Astrakhan, Devesh Kumar (Dev), Sargun Vohra, Stefan Karschti,
+and Minh Nguyễn.
