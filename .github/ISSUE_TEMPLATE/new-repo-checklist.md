@@ -32,7 +32,7 @@ If the above is not the case, the following requirements must both be met:
   Suggested approach:
     - Post the issue on the `#maplibre` channel on Slack.
     - Make sure this issue is included in the monthly [newsletter](https://github.com/maplibre/maplibre.github.io/issues?q=is%3Aissue%20state%3Aopen%20newsletter).
-    - Give people a resonable time to respond (at least two weeks).
+    - After the above, give people a resonable time to respond (at least two weeks).
     - Ideally this issue is also shared during a TSC Meeting (please post a summary of the discussion).
 
 - [ ] Three board members have left a comment indicating they support onboarding this repository.
