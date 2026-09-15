@@ -27,9 +27,15 @@ Thank you for your interest in onboarding a new repository to the MapLibre organ
 
 - If the above is not the case, the following requirements must both be met:
 
-  - [ ] The community has had a chance to respond to onboarding this repository.
-        For example: this issue has been announced on the main MapLibre Slack channel and has been open for at least two weeks.
-  - [ ] Three board members have left a comment approving the onboarding of this repository.
+  - [ ] The community has had a chance to respond to onboarding this repository.  
+    
+    Suggested approach:
+      - Post the issue on the `#maplibre` channel on Slack.
+      - Make sure this issue is included in the monthly [newsletter](https://github.com/maplibre/maplibre.github.io/issues?q=is%3Aissue%20state%3Aopen%20newsletter).
+      - Give people a resonable time to respond (at least two weeks).
+      - Ideally this issue is also shared during a TSC Meeting (please post a summary of the discussion).
+
+  - [ ] Three board members have left a comment indicating they support onboarding this repository.
 
 ## Licensing
 
